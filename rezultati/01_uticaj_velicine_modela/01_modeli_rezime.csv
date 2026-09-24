@@ -1,0 +1,5 @@
+﻿Model,Broj snimaka,Prosečno vreme [s],Ukupno vreme [s],Prosečan RTF,Prosečan WER [%],Medijana WER [%]
+tiny,20,2.648,52.963,0.0871,63.97,66.54
+base,20,4.519,90.377,0.1405,40.89,40.36
+small,20,12.194,243.875,0.3907,20.02,19.68
+medium,20,33.557,671.142,1.0452,13.14,8.17

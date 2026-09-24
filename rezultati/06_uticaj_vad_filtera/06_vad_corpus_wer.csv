@@ -1,0 +1,5 @@
+﻿Podskup,Režim,Corpus WER [%]
+synthetic_en,VAD OFF,7.14
+synthetic_en,VAD ON,6.04
+natural_sr,VAD OFF,62.47
+natural_sr,VAD ON,62.25

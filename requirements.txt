@@ -1,0 +1,27 @@
+
+# Whisper / Faster-Whisper ASR Benchmark
+# Python 3.10.20
+
+# ASR modeli
+openai-whisper==20250625
+faster-whisper==1.2.1
+ctranslate2==4.8.0
+torch==2.12.0
+
+# Audio obrada
+numpy==2.2.6
+scipy==1.15.3
+soundfile==0.14.0
+colorednoise==2.2.0
+
+# Evaluacija i merenje resursa
+jiwer==4.0.0
+psutil==7.2.2
+pandas==2.3.3
+
+# Grafikoni
+matplotlib==3.10.9
+
+# Jupyter
+jupyter==1.1.1
+ipykernel==7.3.0

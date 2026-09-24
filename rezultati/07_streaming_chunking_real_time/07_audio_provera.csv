@@ -1,0 +1,6 @@
+﻿Broj,Audio,Govornik,Original SR [Hz],Model SR [Hz],Original trajanje [s],Trajanje posle resamplinga [s],Razlika trajanja [ms]
+36,36govornik1.wav,govornik1,44100,16000,69.01,69.01,0.045
+37,37govornik2.wav,govornik2,44100,16000,82.431,82.431,0.036
+38,38govornik2.wav,govornik2,44100,16000,64.459,64.459,0.031
+39,39govornik3.wav,govornik3,44100,16000,62.613,62.613,0.017
+40,40govornik3.wav,govornik3,44100,16000,79.772,79.772,0.033

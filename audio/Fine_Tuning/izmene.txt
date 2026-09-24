@@ -1,0 +1,7 @@
+train
+gov 3 308, 310, 314, 637, 648
+gov2 216, 221, 240
+val
+660, 672, 675
+test
+nije još uvek ništa

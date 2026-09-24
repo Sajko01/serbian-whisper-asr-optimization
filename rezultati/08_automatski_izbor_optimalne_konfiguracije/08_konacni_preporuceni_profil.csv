@@ -1,0 +1,8 @@
+﻿Parametar,Preporučena vrednost
+Model,small
+Kvantizacija,int8
+Uređaj,cpu
+Jezik,sr
+Beam size,5
+VAD default,ON
+Streaming chunk [s],10.0

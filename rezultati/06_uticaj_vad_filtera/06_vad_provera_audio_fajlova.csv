@@ -1,0 +1,11 @@
+﻿Podskup,Jezik,Fajl,VAD trajanje [s],Original trajanje [s],Dodata tišina [s],Udeo dodate tišine [%]
+synthetic_en,en,govor_p1_VAD.wav,34.232,,,
+synthetic_en,en,govor_p2_VAD.wav,33.152,,,
+synthetic_en,en,govor_p3_VAD.wav,30.872,,,
+synthetic_en,en,govor_p4_VAD.wav,33.08,,,
+synthetic_en,en,govor_p5_VAD.wav,30.512,,,
+natural_sr,sr,28govornik1_VAD.wav,36.84,30.697,6.143,16.68
+natural_sr,sr,32govornik3_VAD.wav,34.835,27.968,6.867,19.71
+natural_sr,sr,33govornik3_VAD.wav,38.37,31.254,7.116,18.55
+natural_sr,sr,36govornik1_VAD.wav,74.985,69.01,5.975,7.97
+natural_sr,sr,40govornik3_VAD.wav,88.041,79.772,8.269,9.39

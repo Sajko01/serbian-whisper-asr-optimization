@@ -1,0 +1,294 @@
+﻿Chunk size [s],Broj,Audio,Govornik,Chunk ID,Početak [s],Kraj [s],Trajanje chunk-a [s],Inference latencija [s],RTF,RTF < 1,Arrival time [s],Processing start [s],Queue delay [s],Processing finish [s],Result delay od kraja chunk-a [s],Transkript chunk-a
+2,36,36govornik1.wav,govornik1,1,0.0,2.0,2.0,0.86,0.43,True,2.0,2.0,0.0,2.86,0.86,Savrimini sistem iz automacko pr...
+2,36,36govornik1.wav,govornik1,2,2.0,4.0,2.0,0.794,0.3971,True,4.0,4.0,0.0,4.794,0.794,poznavenje govara i my je velik.
+2,36,36govornik1.wav,govornik1,3,4.0,6.0,2.0,0.8,0.4,True,6.0,6.0,0.0,6.8,0.8,proje praktyčnih primena.
+2,36,36govornik1.wav,govornik1,4,6.0,8.0,2.0,0.77,0.3851,True,8.0,8.0,0.0,8.77,0.77,Mogu se koristiti za automansko pra...
+2,36,36govornik1.wav,govornik1,5,8.0,10.0,2.0,0.769,0.3843,True,10.0,10.0,0.0,10.769,0.769,pravljene transkripata.
+2,36,36govornik1.wav,govornik1,6,10.0,12.0,2.0,0.754,0.3768,True,12.0,12.0,0.0,12.754,0.754,sastanka generisant it.
+2,36,36govornik1.wav,govornik1,7,12.0,14.0,2.0,0.748,0.374,True,14.0,14.0,0.0,14.748,0.748,"titlova, glasa neasi."
+2,36,36govornik1.wav,govornik1,8,14.0,16.0,2.0,0.737,0.3687,True,16.0,16.0,0.0,16.737,0.737,pretrgo multimedial.
+2,36,36govornik1.wav,govornik1,9,16.0,18.0,2.0,0.81,0.4052,True,18.0,18.0,0.0,18.81,0.81,do nuk sadržaja i pobošanje...
+2,36,36govornik1.wav,govornik1,10,18.0,20.0,2.0,0.783,0.3915,True,20.0,20.0,0.0,20.783,0.783,vrstva pačnosti digitalne existem.
+2,36,36govornik1.wav,govornik1,11,20.0,22.0,2.0,0.767,0.3837,True,22.0,22.0,0.0,22.767,0.767,i pak kvalitet njiho
+2,36,36govornik1.wav,govornik1,12,22.0,24.0,2.0,0.756,0.3778,True,24.0,24.0,0.0,24.756,0.756,zavisili od velikog brojefar.
+2,36,36govornik1.wav,govornik1,13,24.0,26.0,2.0,0.789,0.3943,True,26.0,26.0,0.0,26.789,0.789,"Vaktor, goriniti i mi ur..."
+2,36,36govornik1.wav,govornik1,14,26.0,28.0,2.0,0.764,0.3819,True,28.0,28.0,0.0,28.764,0.764,razili taj glasove accent.
+2,36,36govornik1.wav,govornik1,15,28.0,30.0,2.0,0.747,0.3737,True,30.0,30.0,0.0,30.747,0.747,i brzineg ovora.
+2,36,36govornik1.wav,govornik1,16,30.0,32.0,2.0,0.765,0.3826,True,32.0,32.0,0.0,32.765,0.765,Do snimci mogu nastati korišni.
+2,36,36govornik1.wav,govornik1,17,32.0,34.0,2.0,0.742,0.371,True,34.0,34.0,0.0,34.742,0.742,i urat.
+2,36,36govornik1.wav,govornik1,18,34.0,36.0,2.0,0.751,0.3754,True,36.0,36.0,0.0,36.751,0.751,zetřitim prostorijem.
+2,36,36govornik1.wav,govornik1,19,36.0,38.0,2.0,0.817,0.4083,True,38.0,38.0,0.0,38.817,0.817,problom predstavljaj pozadinskišku.
+2,36,36govornik1.wav,govornik1,20,38.0,40.0,2.0,0.75,0.3752,True,40.0,40.0,0.0,40.75,0.75,
+2,36,36govornik1.wav,govornik1,21,40.0,42.0,2.0,0.771,0.3853,True,42.0,42.0,0.0,42.771,0.771,Dobro radi u tihu i prostori nemorad.
+2,36,36govornik1.wav,govornik1,22,42.0,44.0,2.0,0.763,0.3815,True,44.0,44.0,0.0,44.763,0.763,postignijesti rezultat na ulici.
+2,36,36govornik1.wav,govornik1,23,44.0,46.0,2.0,0.798,0.3989,True,46.0,46.0,0.0,46.798,0.798,i otomu bilo.
+2,36,36govornik1.wav,govornik1,24,46.0,48.0,2.0,0.791,0.3957,True,48.0,48.0,0.0,48.791,0.791,"Zbog toga, Evaluacija System..."
+2,36,36govornik1.wav,govornik1,25,48.0,50.0,2.0,0.751,0.3757,True,50.0,50.0,0.0,50.751,0.751,ne bi trebalo da bude zastanan.
+2,36,36govornik1.wav,govornik1,26,50.0,52.0,2.0,0.787,0.3934,True,52.0,52.0,0.0,52.787,0.787,na samo jednom zvorskom zapisu.
+2,36,36govornik1.wav,govornik1,27,52.0,54.0,2.0,0.782,0.3912,True,54.0,54.0,0.0,54.782,0.782,potrano korisiti vije šegu.
+2,36,36govornik1.wav,govornik1,28,54.0,56.0,2.0,0.745,0.3723,True,56.0,56.0,0.0,56.745,0.745,rada je to je to je.
+2,36,36govornik1.wav,govornik1,29,56.0,58.0,2.0,0.754,0.3771,True,58.0,58.0,0.0,58.754,0.754,i razečite u slor.
+2,36,36govornik1.wav,govornik1,30,58.0,60.0,2.0,0.755,0.3776,True,60.0,60.0,0.0,60.755,0.755,"Pore taršnosti, tira."
+2,36,36govornik1.wav,govornik1,31,60.0,62.0,2.0,0.799,0.3997,True,62.0,62.0,0.0,62.799,0.799,"na skripsije, varno analizirati."
+2,36,36govornik1.wav,govornik1,32,62.0,64.0,2.0,0.789,0.3946,True,64.0,64.0,0.0,64.789,0.789,zvršavajne potrošta.
+2,36,36govornik1.wav,govornik1,33,64.0,66.0,2.0,0.762,0.3812,True,66.0,66.0,0.0,66.762,0.762,i sprozobno systemat.
+2,36,36govornik1.wav,govornik1,34,66.0,68.0,2.0,0.813,0.4066,True,68.0,68.0,0.0,68.813,0.813,da obradio zvuk dovenom brazo zaprak.
+2,36,36govornik1.wav,govornik1,35,68.0,69.01,1.01,0.764,0.7571,True,69.01,69.01,0.0,69.774,0.764,kakci s nupri imenu.
+2,37,37govornik2.wav,govornik2,1,0.0,2.0,2.0,0.747,0.3735,True,2.0,2.0,0.0,2.747,0.747,Kada govorimo ooper.
+2,37,37govornik2.wav,govornik2,2,2.0,4.0,2.0,0.764,0.3822,True,4.0,4.0,0.0,4.764,0.764,
+2,37,37govornik2.wav,govornik2,3,4.0,6.0,2.0,0.738,0.3691,True,6.0,6.0,0.0,6.738,0.738,
+2,37,37govornik2.wav,govornik2,4,6.0,8.0,2.0,0.8,0.3998,True,8.0,8.0,0.0,8.8,0.8,Zalajte stvari koje želimo do...
+2,37,37govornik2.wav,govornik2,5,8.0,10.0,2.0,0.747,0.3736,True,10.0,10.0,0.0,10.747,0.747,postignemo.
+2,37,37govornik2.wav,govornik2,6,10.0,12.0,2.0,0.807,0.4034,True,12.0,12.0,0.0,12.807,0.807,Prvoje što tacznje i traz.
+2,37,37govornik2.wav,govornik2,7,12.0,14.0,2.0,0.772,0.3858,True,14.0,14.0,0.0,14.772,0.772,s kript a druga što je fika.
+2,37,37govornik2.wav,govornik2,8,14.0,16.0,2.0,0.757,0.3785,True,16.0,16.0,0.0,16.757,0.757,s ne izvršalani.
+2,37,37govornik2.wav,govornik2,9,16.0,18.0,2.0,0.778,0.3889,True,18.0,18.0,0.0,18.778,0.778,Veći model može polje da pre.
+2,37,37govornik2.wav,govornik2,10,18.0,20.0,2.0,0.757,0.3783,True,20.0,20.0,0.0,20.757,0.757,komplikovane rečenit.
+2,37,37govornik2.wav,govornik2,11,20.0,22.0,2.0,0.759,0.3793,True,22.0,22.0,0.0,22.759,0.759,i li govor u težim us.
+2,37,37govornik2.wav,govornik2,12,22.0,24.0,2.0,0.774,0.3872,True,24.0,24.0,0.0,24.774,0.774,svojima ali je stovremeno mori...
+2,37,37govornik2.wav,govornik2,13,24.0,26.0,2.0,0.774,0.3868,True,26.0,26.0,0.0,26.774,0.774,za htevati mnogo više memori.
+2,37,37govornik2.wav,govornik2,14,26.0,28.0,2.0,0.735,0.3677,True,28.0,28.0,0.0,28.735,0.735,i vremena.
+2,37,37govornik2.wav,govornik2,15,28.0,30.0,2.0,0.849,0.4244,True,30.0,30.0,0.0,30.849,0.849,"Mani model, može biti nešto..."
+2,37,37govornik2.wav,govornik2,16,30.0,32.0,2.0,2.198,1.0991,False,32.0,32.0,0.0,34.198,2.198,ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se ovo se o
+2,37,37govornik2.wav,govornik2,17,32.0,34.0,2.0,0.764,0.3819,True,34.0,34.198,0.198,34.962,0.962,da se koristi na ovog.
+2,37,37govornik2.wav,govornik2,18,34.0,36.0,2.0,0.727,0.3637,True,36.0,36.0,0.0,36.727,0.727,na laptopu.
+2,37,37govornik2.wav,govornik2,19,36.0,38.0,2.0,0.774,0.387,True,38.0,38.0,0.0,38.774,0.774,Quantizacija prestavlja jo...
+2,37,37govornik2.wav,govornik2,20,38.0,40.0,2.0,2.182,1.0911,False,40.0,40.0,0.0,42.182,2.182,svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj svoj s
+2,37,37govornik2.wav,govornik2,21,40.0,42.0,2.0,0.809,0.4046,True,42.0,42.182,0.182,42.991,0.991,i je omogućava korištje.
+2,37,37govornik2.wav,govornik2,22,42.0,44.0,2.0,0.727,0.3637,True,44.0,44.0,0.0,44.727,0.727,Numerit kok formata.
+2,37,37govornik2.wav,govornik2,23,44.0,46.0,2.0,0.734,0.367,True,46.0,46.0,0.0,46.734,0.734,manje preciznosti.
+2,37,37govornik2.wav,govornik2,24,46.0,48.0,2.0,0.75,0.375,True,48.0,48.0,0.0,48.75,0.75,time se može smanje tikoli.
+2,37,37govornik2.wav,govornik2,25,48.0,50.0,2.0,0.778,0.389,True,50.0,50.0,0.0,50.778,0.778,činapotrebne memoria i u...
+2,37,37govornik2.wav,govornik2,26,50.0,52.0,2.0,0.718,0.3592,True,52.0,52.0,0.0,52.718,0.718,obra da.
+2,37,37govornik2.wav,govornik2,27,52.0,54.0,2.0,0.755,0.3777,True,54.0,54.0,0.0,54.755,0.755,medjutim svakop.
+2,37,37govornik2.wav,govornik2,28,54.0,56.0,2.0,0.77,0.3848,True,56.0,56.0,0.0,56.77,0.77,otimizacija mora da bude ex.
+2,37,37govornik2.wav,govornik2,29,56.0,58.0,2.0,0.735,0.3676,True,58.0,58.0,0.0,58.735,0.735,experimentalno proverena.
+2,37,37govornik2.wav,govornik2,30,58.0,60.0,2.0,0.761,0.3804,True,60.0,60.0,0.0,60.761,0.761,Mi je dovoljno pokazati.
+2,37,37govornik2.wav,govornik2,31,60.0,62.0,2.0,0.758,0.3792,True,62.0,62.0,0.0,62.758,0.758,jedna konfiguracija.
+2,37,37govornik2.wav,govornik2,32,62.0,64.0,2.0,0.783,0.3914,True,64.0,64.0,0.0,64.783,0.783,Potrebno je proveriti.
+2,37,37govornik2.wav,govornik2,33,64.0,66.0,2.0,0.758,0.3789,True,66.0,66.0,0.0,66.758,0.758,da li je nje na tacnost ostala.
+2,37,37govornik2.wav,govornik2,34,66.0,68.0,2.0,0.743,0.3714,True,68.0,68.0,0.0,68.743,0.743,prihvatljiva.
+2,37,37govornik2.wav,govornik2,35,68.0,70.0,2.0,0.78,0.3898,True,70.0,70.0,0.0,70.78,0.78,sato se koriste metrike.
+2,37,37govornik2.wav,govornik2,36,70.0,72.0,2.0,0.756,0.3781,True,72.0,72.0,0.0,72.756,0.756,kao što suvor d'eror
+2,37,37govornik2.wav,govornik2,37,72.0,74.0,2.0,0.702,0.351,True,74.0,74.0,0.0,74.702,0.702,Latentia
+2,37,37govornik2.wav,govornik2,38,74.0,76.0,2.0,0.75,0.3749,True,76.0,76.0,0.0,76.75,0.75,"i reaun tim, factor kudi."
+2,37,37govornik2.wav,govornik2,39,76.0,78.0,2.0,0.836,0.4181,True,78.0,78.0,0.0,78.836,0.836,ovojom obučavaju da različiteko.
+2,37,37govornik2.wav,govornik2,40,78.0,80.0,2.0,0.847,0.4236,True,80.0,80.0,0.0,80.847,0.847,ovo je je modela budu.
+2,37,37govornik2.wav,govornik2,41,80.0,82.0,2.0,0.762,0.3812,True,82.0,82.0,0.0,82.762,0.762,u poridjene na objektiva nac.
+2,37,37govornik2.wav,govornik2,42,82.0,82.431,0.431,2.161,5.0158,False,82.431,82.762,0.332,84.924,2.493,"Svrče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, srče, sr"
+2,38,38govornik2.wav,govornik2,1,0.0,2.0,2.0,0.743,0.3713,True,2.0,2.0,0.0,2.743,0.743,Prošla ne delje imosa.
+2,38,38govornik2.wav,govornik2,2,2.0,4.0,2.0,0.774,0.3868,True,4.0,4.0,0.0,4.774,0.774,prilečno je spunjen dan.
+2,38,38govornik2.wav,govornik2,3,4.0,6.0,2.0,0.768,0.3841,True,6.0,6.0,0.0,6.768,0.768,u jutru sam usto oranije.
+2,38,38govornik2.wav,govornik2,4,6.0,8.0,2.0,0.783,0.3917,True,8.0,8.0,0.0,8.783,0.783,sa mora od a završim nekolik.
+2,38,38govornik2.wav,govornik2,5,8.0,10.0,2.0,0.784,0.3921,True,10.0,10.0,0.0,10.784,0.784,koba ve za pre odlaska u grad.
+2,38,38govornik2.wav,govornik2,6,10.0,12.0,2.0,0.748,0.3739,True,12.0,12.0,0.0,12.748,0.748,posledo doručka pro...
+2,38,38govornik2.wav,govornik2,7,12.0,14.0,2.0,0.757,0.3784,True,14.0,14.0,0.0,14.757,0.757,"Samporu, ki pripremijos."
+2,38,38govornik2.wav,govornik2,8,14.0,16.0,2.0,0.797,0.3986,True,16.0,16.0,0.0,16.797,0.797,svoj stvari koji su mi by le potrebne.
+2,38,38govornik2.wav,govornik2,9,16.0,18.0,2.0,0.723,0.3616,True,18.0,18.0,0.0,18.723,0.723,i krenu automobilom.
+2,38,38govornik2.wav,govornik2,10,18.0,20.0,2.0,0.761,0.3806,True,20.0,20.0,0.0,20.761,0.761,Na puto je bilo vi...
+2,38,38govornik2.wav,govornik2,11,20.0,22.0,2.0,0.771,0.3857,True,22.0,22.0,0.0,22.771,0.771,i se obraće negošto samocin.
+2,38,38govornik2.wav,govornik2,12,22.0,24.0,2.0,0.768,0.3841,True,24.0,24.0,0.0,24.768,0.768,pa mi je treba lo skoro...
+2,38,38govornik2.wav,govornik2,13,24.0,26.0,2.0,0.76,0.38,True,26.0,26.0,0.0,26.76,0.76,
+2,38,38govornik2.wav,govornik2,14,26.0,28.0,2.0,0.744,0.372,True,28.0,28.0,0.0,28.744,0.744,Prvo sam otiš...
+2,38,38govornik2.wav,govornik2,15,28.0,30.0,2.0,0.77,0.3851,True,30.0,30.0,0.0,30.77,0.77,do prodavnice zatim do ba...
+2,38,38govornik2.wav,govornik2,16,30.0,32.0,2.0,0.768,0.3838,True,32.0,32.0,0.0,32.768,0.768,a na kontoga sam se naš.
+2,38,38govornik2.wav,govornik2,17,32.0,34.0,2.0,0.747,0.3736,True,34.0,34.0,0.0,34.747,0.747,sa prijatelj koje gnije.
+2,38,38govornik2.wav,govornik2,18,34.0,36.0,2.0,0.749,0.3743,True,36.0,36.0,0.0,36.749,0.749,video nekoliko mesici.
+2,38,38govornik2.wav,govornik2,19,36.0,38.0,2.0,0.758,0.3792,True,38.0,38.0,0.0,38.758,0.758,Rozgovarali smo opov.
+2,38,38govornik2.wav,govornik2,20,38.0,40.0,2.0,0.835,0.4176,True,40.0,40.0,0.0,40.835,0.835,slu putovanjima i planovi maza.
+2,38,38govornik2.wav,govornik2,21,40.0,42.0,2.0,0.785,0.3923,True,42.0,42.0,0.0,42.785,0.785,za narednu godinu.
+2,38,38govornik2.wav,govornik2,22,42.0,44.0,2.0,0.753,0.3763,True,44.0,44.0,0.0,44.753,0.753,posledučka vreme se iznana.
+2,38,38govornik2.wav,govornik2,23,44.0,46.0,2.0,0.814,0.4071,True,46.0,46.0,0.0,46.814,0.814,da promenilo i počelo je jac.
+2,38,38govornik2.wav,govornik2,24,46.0,48.0,2.0,0.751,0.3755,True,48.0,48.0,0.0,48.751,0.751,Sajčakali.
+2,38,38govornik2.wav,govornik2,25,48.0,50.0,2.0,0.786,0.3931,True,50.0,50.0,0.0,50.786,0.786,o nekoliko menuta da se vreme ma...
+2,38,38govornik2.wav,govornik2,26,50.0,52.0,2.0,0.764,0.3819,True,52.0,52.0,0.0,52.764,0.764,"malo smiri, a onda smo krenuli."
+2,38,38govornik2.wav,govornik2,27,52.0,54.0,2.0,0.727,0.3633,True,54.0,54.0,0.0,54.727,0.727,
+2,38,38govornik2.wav,govornik2,28,54.0,56.0,2.0,0.73,0.3652,True,56.0,56.0,0.0,56.73,0.73,na stavio 8.
+2,38,38govornik2.wav,govornik2,29,56.0,58.0,2.0,0.739,0.3693,True,58.0,58.0,0.0,58.739,0.739,da radim na rato unaro.
+2,38,38govornik2.wav,govornik2,30,58.0,60.0,2.0,2.169,1.0844,False,60.0,60.0,0.0,62.169,2.169,svoj se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se
+2,38,38govornik2.wav,govornik2,31,60.0,62.0,2.0,0.787,0.3934,True,62.0,62.169,0.169,62.955,0.955,i odluči odostata kdana.
+2,38,38govornik2.wav,govornik2,32,62.0,64.0,2.0,0.743,0.3717,True,64.0,64.0,0.0,64.743,0.743,prvo videm odmarajucise.
+2,38,38govornik2.wav,govornik2,33,64.0,64.459,0.459,2.225,4.8519,False,64.459,64.743,0.285,66.969,2.51,"Sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, sve, s"
+2,39,39govornik3.wav,govornik3,1,0.0,2.0,2.0,0.795,0.3976,True,2.0,2.0,0.0,2.795,0.795,"System, kde brad je gore, ja no ne vrm..."
+2,39,39govornik3.wav,govornik3,2,2.0,4.0,2.0,2.175,1.0875,False,4.0,4.0,0.0,6.175,2.175,da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa da sa sa da sa da sa da sa da sa da sa da sa da sa da sa
+2,39,39govornik3.wav,govornik3,3,4.0,6.0,2.0,0.747,0.3735,True,6.0,6.175,0.175,6.922,0.922,s temak oj dobi kompat...
+2,39,39govornik3.wav,govornik3,4,6.0,8.0,2.0,0.775,0.3875,True,8.0,8.0,0.0,8.775,0.775,da je tabla odio zapis kukla
+2,39,39govornik3.wav,govornik3,5,8.0,10.0,2.0,0.766,0.3831,True,10.0,10.0,0.0,10.766,0.766,Transkrypti je modem.
+2,39,39govornik3.wav,govornik3,6,10.0,12.0,2.0,0.795,0.3976,True,12.0,12.0,0.0,12.795,0.795,oši da dobije čitostnima.
+2,39,39govornik3.wav,govornik3,7,12.0,14.0,2.0,0.769,0.3845,True,14.0,14.0,0.0,14.769,0.769,"i zatim goberadi, kodrjavno..."
+2,39,39govornik3.wav,govornik3,8,14.0,16.0,2.0,0.788,0.3939,True,16.0,16.0,0.0,16.788,0.788,
+2,39,39govornik3.wav,govornik3,9,16.0,18.0,2.0,0.799,0.3994,True,18.0,18.0,0.0,18.799,0.799,njiži pa ga je potrebno podijeliti nemanje.
+2,39,39govornik3.wav,govornik3,10,18.0,20.0,2.0,0.707,0.3536,True,20.0,20.0,0.0,20.707,0.707,s da je ljudi.
+2,39,39govornik3.wav,govornik3,11,20.0,22.0,2.0,0.77,0.3849,True,22.0,22.0,0.0,22.77,0.77,
+2,39,39govornik3.wav,govornik3,12,22.0,24.0,2.0,0.77,0.3848,True,24.0,24.0,0.0,24.77,0.77,"da prikaj žeg rezultat, ali modem..."
+2,39,39govornik3.wav,govornik3,13,24.0,26.0,2.0,0.757,0.3786,True,26.0,26.0,0.0,26.757,0.757,da li ima manje kontexta za prav...
+2,39,39govornik3.wav,govornik3,14,26.0,28.0,2.0,0.792,0.3962,True,28.0,28.0,0.0,28.792,0.792,u pravimo pripoznala njerečenica.
+2,39,39govornik3.wav,govornik3,15,28.0,30.0,2.0,0.788,0.394,True,30.0,30.0,0.0,30.788,0.788,sad drugi strane koji koristimo duga se...
+2,39,39govornik3.wav,govornik3,16,30.0,32.0,2.0,0.75,0.3748,True,32.0,32.0,0.0,32.75,0.75,
+2,39,39govornik3.wav,govornik3,17,32.0,34.0,2.0,0.771,0.3854,True,34.0,34.0,0.0,34.771,0.771,ali koristik mora duži dač...
+2,39,39govornik3.wav,govornik3,18,34.0,36.0,2.0,0.769,0.3844,True,36.0,36.0,0.0,36.769,0.769,s buk toga iz...
+2,39,39govornik3.wav,govornik3,19,36.0,38.0,2.0,0.82,0.4098,True,38.0,38.0,0.0,38.82,0.82,"svoj roba je učinje segmenta, prestavlj..."
+2,39,39govornik3.wav,govornik3,20,38.0,40.0,2.0,0.753,0.3766,True,40.0,40.0,0.0,40.753,0.753,kompromisizmi dio platenci
+2,39,39govornik3.wav,govornik3,21,40.0,42.0,2.0,0.759,0.3793,True,42.0,42.0,0.0,42.759,0.759,i igledajte ta transkrypcija.
+2,39,39govornik3.wav,govornik3,22,42.0,44.0,2.0,0.761,0.3807,True,44.0,44.0,0.0,44.761,0.761,na primer mogen su porijete se kmen...
+2,39,39govornik3.wav,govornik3,23,44.0,46.0,2.0,0.743,0.3717,True,46.0,46.0,0.0,46.743,0.743,Drip
+2,39,39govornik3.wav,govornik3,24,46.0,48.0,2.0,0.725,0.3624,True,48.0,48.0,0.0,48.725,0.725,15 sekundi.
+2,39,39govornik3.wav,govornik3,25,48.0,50.0,2.0,0.828,0.4141,True,50.0,50.0,0.0,50.828,0.828,"su se su se su konfiguracijo, mogod će izmeri..."
+2,39,39govornik3.wav,govornik3,26,50.0,52.0,2.0,0.79,0.3951,True,52.0,52.0,0.0,52.79,0.79,"Vremi obradi, faktor realno."
+2,39,39govornik3.wav,govornik3,27,52.0,54.0,2.0,0.717,0.3587,True,54.0,54.0,0.0,54.717,0.717,i tajšnost.
+2,39,39govornik3.wav,govornik3,28,54.0,56.0,2.0,0.752,0.3761,True,56.0,56.0,0.0,56.752,0.752,konošno kotranskripta.
+2,39,39govornik3.wav,govornik3,29,56.0,58.0,2.0,0.765,0.3824,True,58.0,58.0,0.0,58.765,0.765,"experimento, mogučalo da si utvar..."
+2,39,39govornik3.wav,govornik3,30,58.0,60.0,2.0,0.774,0.3868,True,60.0,60.0,0.0,60.774,0.774,da je konfigurati prestavili.
+2,39,39govornik3.wav,govornik3,31,60.0,62.0,2.0,0.773,0.3867,True,62.0,62.0,0.0,62.773,0.773,da je najbolj kompromis za prakti...
+2,39,39govornik3.wav,govornik3,32,62.0,62.613,0.613,0.732,1.1956,False,62.613,62.773,0.161,63.506,0.893,sista.
+2,40,40govornik3.wav,govornik3,1,0.0,2.0,2.0,0.719,0.3593,True,2.0,2.0,0.0,2.719,0.719,cil experimentan analizis.
+2,40,40govornik3.wav,govornik3,2,2.0,4.0,2.0,0.835,0.4177,True,4.0,4.0,0.0,4.835,0.835,svetima z automaticku propoznavajne govara je...
+2,40,40govornik3.wav,govornik3,3,4.0,6.0,2.0,0.807,0.4035,True,6.0,6.0,0.0,6.807,0.807,su tvoj arde kakoraz...
+2,40,40govornik3.wav,govornik3,4,6.0,8.0,2.0,0.794,0.397,True,8.0,8.0,0.0,8.794,0.794,da se se ti faktor u ticu na njegov radi.
+2,40,40govornik3.wav,govornik3,5,8.0,10.0,2.0,0.79,0.395,True,10.0,10.0,0.0,10.79,0.79,možemo menjati vjel třinu mo...
+2,40,40govornik3.wav,govornik3,6,10.0,12.0,2.0,0.734,0.367,True,12.0,12.0,0.0,12.734,0.734,"Dala, nival!"
+2,40,40govornik3.wav,govornik3,7,12.0,14.0,2.0,0.785,0.3923,True,14.0,14.0,0.0,14.785,0.785,"Pozadinsku kšuma, jezi go..."
+2,40,40govornik3.wav,govornik3,8,14.0,16.0,2.0,0.752,0.3758,True,16.0,16.0,0.0,16.752,0.752,
+2,40,40govornik3.wav,govornik3,9,16.0,18.0,2.0,0.763,0.3817,True,18.0,18.0,0.0,18.763,0.763,uderajem način quantizat...
+2,40,40govornik3.wav,govornik3,10,18.0,20.0,2.0,0.725,0.3624,True,20.0,20.0,0.0,20.725,0.725,i koristinja algoritma
+2,40,40govornik3.wav,govornik3,11,20.0,22.0,2.0,0.795,0.3973,True,22.0,22.0,0.0,22.795,0.795,zade tek to je u gora.
+2,40,40govornik3.wav,govornik3,12,22.0,24.0,2.0,0.747,0.3737,True,24.0,24.0,0.0,24.747,0.747,Svaki experiment treba on...
+2,40,40govornik3.wav,govornik3,13,24.0,26.0,2.0,0.782,0.3908,True,26.0,26.0,0.0,26.782,0.782,i tako da možemo jasno do to.
+2,40,40govornik3.wav,govornik3,14,26.0,28.0,2.0,2.168,1.0838,False,28.0,28.0,0.0,30.168,2.168,da se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se se
+2,40,40govornik3.wav,govornik3,15,28.0,30.0,2.0,0.742,0.3709,True,30.0,30.168,0.168,30.909,0.909,Romin resultati
+2,40,40govornik3.wav,govornik3,16,30.0,32.0,2.0,0.755,0.3777,True,32.0,32.0,0.0,32.755,0.755,se zatim mogu posmetrat.
+2,40,40govornik3.wav,govornik3,17,32.0,34.0,2.0,0.744,0.3718,True,34.0,34.0,0.0,34.744,0.744,kroz više metri.
+2,40,40govornik3.wav,govornik3,18,34.0,36.0,2.0,0.738,0.369,True,36.0,36.0,0.0,36.738,0.738,Voreno...
+2,40,40govornik3.wav,govornik3,19,36.0,38.0,2.0,0.722,0.3609,True,38.0,38.0,0.0,38.722,0.722,"a rate, pokazili kog"
+2,40,40govornik3.wav,govornik3,20,38.0,40.0,2.0,0.78,0.3898,True,40.0,40.0,0.0,40.78,0.78,Pripo se prepoznatite tekstrum.
+2,40,40govornik3.wav,govornik3,21,40.0,42.0,2.0,0.772,0.3862,True,42.0,42.0,0.0,42.772,0.772,svoji je otočno referentno.
+2,40,40govornik3.wav,govornik3,22,42.0,44.0,2.0,0.727,0.3636,True,44.0,44.0,0.0,44.727,0.727,transkrypto.
+2,40,40govornik3.wav,govornik3,23,44.0,46.0,2.0,0.716,0.358,True,46.0,46.0,0.0,46.716,0.716,Latenzi
+2,40,40govornik3.wav,govornik3,24,46.0,48.0,2.0,0.771,0.3854,True,48.0,48.0,0.0,48.771,0.771,pokazili koliko vremilne potrebno
+2,40,40govornik3.wav,govornik3,25,48.0,50.0,2.0,0.737,0.3687,True,50.0,50.0,0.0,50.737,0.737,do kaj arali.
+2,40,40govornik3.wav,govornik3,26,50.0,52.0,2.0,0.719,0.3594,True,52.0,52.0,0.0,52.719,0.719,time factor po...
+2,40,40govornik3.wav,govornik3,27,52.0,54.0,2.0,0.77,0.3852,True,54.0,54.0,0.0,54.77,0.77,ovez divreme obra desi
+2,40,40govornik3.wav,govornik3,28,54.0,56.0,2.0,0.755,0.3777,True,56.0,56.0,0.0,56.755,0.755,da tranjem samog zvursi...
+2,40,40govornik3.wav,govornik3,29,56.0,58.0,2.0,0.737,0.3686,True,58.0,58.0,0.0,58.737,0.737,zapisa.
+2,40,40govornik3.wav,govornik3,30,58.0,60.0,2.0,0.8,0.3998,True,60.0,60.0,0.0,60.8,0.8,"i poslivno značina, kado model treba..."
+2,40,40govornik3.wav,govornik3,31,60.0,62.0,2.0,0.718,0.3591,True,62.0,62.0,0.0,62.718,0.718,da je da da radi na...
+2,40,40govornik3.wav,govornik3,32,62.0,64.0,2.0,0.799,0.3996,True,64.0,64.0,0.0,64.799,0.799,urodjem aso odranicljenim resorsim.
+2,40,40govornik3.wav,govornik3,33,64.0,66.0,2.0,0.786,0.3928,True,66.0,66.0,0.0,66.786,0.786,Kompijeno ovo je je choo svoj.
+2,40,40govornik3.wav,govornik3,34,66.0,68.0,2.0,0.795,0.3977,True,68.0,68.0,0.0,68.795,0.795,da tam ožima da popronadjima konfigurati.
+2,40,40govornik3.wav,govornik3,35,68.0,70.0,2.0,0.778,0.3889,True,70.0,70.0,0.0,70.778,0.778,koja ne mora biti najbolje prema.
+2,40,40govornik3.wav,govornik3,36,70.0,72.0,2.0,0.775,0.3877,True,72.0,72.0,0.0,72.775,0.775,"Svakoj, podimajš noi."
+2,40,40govornik3.wav,govornik3,37,72.0,74.0,2.0,0.734,0.3671,True,74.0,74.0,0.0,74.734,0.734,Metrici ali prestavljali.
+2,40,40govornik3.wav,govornik3,38,74.0,76.0,2.0,0.786,0.3928,True,76.0,76.0,0.0,76.786,0.786,dobro kompromis i zmini u tada.
+2,40,40govornik3.wav,govornik3,39,76.0,78.0,2.0,0.791,0.3957,True,78.0,78.0,0.0,78.791,0.791,Čičnosti brzine i potrebnih.
+2,40,40govornik3.wav,govornik3,40,78.0,79.772,1.772,0.746,0.4211,True,79.772,79.772,0.0,80.518,0.746,ročinarski kao se urse.
+5,36,36govornik1.wav,govornik1,1,0.0,5.0,5.0,0.882,0.1764,True,5.0,5.0,0.0,5.882,0.882,"Savrimini sistemi z automacko prepoznavanja govara, imaju velik broje praktičnih."
+5,36,36govornik1.wav,govornik1,2,5.0,10.0,5.0,0.82,0.1639,True,10.0,10.0,0.0,10.82,0.82,Mogu se koristiti z automansko pravljenje transkripata.
+5,36,36govornik1.wav,govornik1,3,10.0,15.0,5.0,0.858,0.1716,True,15.0,15.0,0.0,15.858,0.858,"sastanka generisajne titlova, glasov neasistente, pret..."
+5,36,36govornik1.wav,govornik1,4,15.0,20.0,5.0,0.916,0.1833,True,20.0,20.0,0.0,20.916,0.916,tragu multimerialno-k sadržaja i povojšanje pristoparšnacije digitalne systema.
+5,36,36govornik1.wav,govornik1,5,20.0,25.0,5.0,0.834,0.1668,True,25.0,25.0,0.0,25.834,0.834,"Ipak kvalitet njihovo grada, zavisio od velekog broje faktor."
+5,36,36govornik1.wav,govornik1,6,25.0,30.0,5.0,0.87,0.174,True,30.0,30.0,0.0,30.87,0.87,"u gornici i mjur razečite glasove, akcenti i brzine govora."
+5,36,36govornik1.wav,govornik1,7,30.0,35.0,5.0,0.918,0.1836,True,35.0,35.0,0.0,35.918,0.918,Do hsnemcim mogu nasati koristjenjem račetih mikrofon je i u razečetim prostorije.
+5,36,36govornik1.wav,govornik1,8,35.0,40.0,5.0,0.834,0.1667,True,40.0,40.0,0.0,40.834,0.834,"Dalatnim problem predstavlja pozadnijski šum, system koji veoma da..."
+5,36,36govornik1.wav,govornik1,9,40.0,45.0,5.0,0.914,0.1829,True,45.0,45.0,0.0,45.914,0.914,Dobro radi u tihvi prostoriji ne mora da postigniji i sti rezultat na ulici i utama bi...
+5,36,36govornik1.wav,govornik1,10,45.0,50.0,5.0,0.846,0.1692,True,50.0,50.0,0.0,50.846,0.846,"Zbog toga, evaluvacije sistema ne bi trebalo da budi zastomana."
+5,36,36govornik1.wav,govornik1,11,50.0,55.0,5.0,0.868,0.1736,True,55.0,55.0,0.0,55.868,0.868,na samo jednom zvušnom zapisu. Potrano korisiti vije še govornika.
+5,36,36govornik1.wav,govornik1,12,55.0,60.0,5.0,0.885,0.1771,True,60.0,60.0,0.0,60.885,0.885,razečite tuži ne snima ka i razečite u stlode. Po red taršnosti...
+5,36,36govornik1.wav,govornik1,13,60.0,65.0,5.0,0.905,0.1809,True,65.0,65.0,0.0,65.905,0.905,s kripcije važno analizirati vremi izvršavanja. Potrošnjuma morije i sp...
+5,36,36govornik1.wav,govornik1,14,65.0,69.01,4.01,0.901,0.2247,True,69.01,69.01,0.0,69.911,0.901,svojno sistema da obradio i zvuku dovo i nambrzo za praktično primeno.
+5,37,37govornik2.wav,govornik2,1,0.0,5.0,5.0,0.84,0.1681,True,5.0,5.0,0.0,5.84,0.84,"Kada govorimo o performansama modela za prepoznavanie govora,"
+5,37,37govornik2.wav,govornik2,2,5.0,10.0,5.0,0.813,0.1626,True,10.0,10.0,0.0,10.813,0.813,Postuje dve različite stvari koje želimo da postignemo.
+5,37,37govornik2.wav,govornik2,3,10.0,15.0,5.0,0.881,0.1763,True,15.0,15.0,0.0,15.881,0.881,"Prveje što tačnje i transcript, a druga što je fikastnje izvršava."
+5,37,37govornik2.wav,govornik2,4,15.0,20.0,5.0,0.821,0.1643,True,20.0,20.0,0.0,20.821,0.821,Veti model može boljede prepozna komplikovanje rečenic.
+5,37,37govornik2.wav,govornik2,5,20.0,25.0,5.0,0.899,0.1798,True,25.0,25.0,0.0,25.899,0.899,"i ljegovor u težim uslovima, ali isto vremeno može za tve tim nob..."
+5,37,37govornik2.wav,govornik2,6,25.0,30.0,5.0,0.926,0.1852,True,30.0,30.0,0.0,30.926,0.926,ko više memoria i времena. Mani model može biti nešto...
+5,37,37govornik2.wav,govornik2,7,30.0,35.0,5.0,0.941,0.1882,True,35.0,35.0,0.0,35.941,0.941,"u manje precizen, ali dovoljno brz da se koristi na običnom laptopu."
+5,37,37govornik2.wav,govornik2,8,35.0,40.0,5.0,0.851,0.1702,True,40.0,40.0,0.0,40.851,0.851,Quantizacija prestavlja još jedan način optimizacija.
+5,37,37govornik2.wav,govornik2,9,40.0,45.0,5.0,0.869,0.1739,True,45.0,45.0,0.0,45.869,0.869,"je je omogućava korištine numeric kok formata, manje pretzili."
+5,37,37govornik2.wav,govornik2,10,45.0,50.0,5.0,0.878,0.1756,True,50.0,50.0,0.0,50.878,0.878,time se može smanje tikoli činna potrebne memoria i u...
+5,37,37govornik2.wav,govornik2,11,50.0,55.0,5.0,0.92,0.184,True,55.0,55.0,0.0,55.92,0.92,"obraza ti obrada. Medi utim, svaka optimizacija mori..."
+5,37,37govornik2.wav,govornik2,12,55.0,60.0,5.0,0.9,0.18,True,60.0,60.0,0.0,60.9,0.9,da bude experimentalno proverena. Mi je dovoljno pokazati...
+5,37,37govornik2.wav,govornik2,13,60.0,65.0,5.0,0.959,0.1918,True,65.0,65.0,0.0,65.959,0.959,i jedna konfiguracija broža. Potrebno je proveriti dalje njena t...
+5,37,37govornik2.wav,govornik2,14,65.0,70.0,5.0,0.786,0.1572,True,70.0,70.0,0.0,70.786,0.786,u pravzato se koriste metrike.
+5,37,37govornik2.wav,govornik2,15,70.0,75.0,5.0,0.787,0.1575,True,75.0,75.0,0.0,75.787,0.787,"kao što su vord error, rat, latensija i real team."
+5,37,37govornik2.wav,govornik2,16,75.0,80.0,5.0,0.861,0.1721,True,80.0,80.0,0.0,80.861,0.861,Factor kojo mogučavaju da razlicite konfiguracije modela budu u...
+5,37,37govornik2.wav,govornik2,17,80.0,82.431,2.431,0.747,0.3074,True,82.431,82.431,0.0,83.178,0.747,u poridjene na objektiva naci.
+5,38,38govornik2.wav,govornik2,1,0.0,5.0,5.0,0.9,0.1799,True,5.0,5.0,0.0,5.9,0.9,Prošla nedelje ima osam prilečno izpunjen dan. U jutru sam u...
+5,38,38govornik2.wav,govornik2,2,5.0,10.0,5.0,0.856,0.1711,True,10.0,10.0,0.0,10.856,0.856,i jer sam moro od a završim nekoliko obave za pre odlaska u grama.
+5,38,38govornik2.wav,govornik2,3,10.0,15.0,5.0,0.892,0.1784,True,15.0,15.0,0.0,15.892,0.892,"Po slidoručka, proverijo sam poruke, pripremijo stvari koji sumi."
+5,38,38govornik2.wav,govornik2,4,15.0,20.0,5.0,0.876,0.1751,True,20.0,20.0,0.0,20.876,0.876,i byle potrebne i kreno automobilo.
+5,38,38govornik2.wav,govornik2,5,20.0,25.0,5.0,0.885,0.1771,True,25.0,25.0,0.0,25.885,0.885,Pisne sabrecie negošto samo čekivo. Pamije trebalo skoro polasate do...
+5,38,38govornik2.wav,govornik2,6,25.0,30.0,5.0,0.906,0.1812,True,30.0,30.0,0.0,30.906,0.906,"da si inem do centra. Prvovo sam oty šo do prodavnice, zatim do ba..."
+5,38,38govornik2.wav,govornik2,7,30.0,35.0,5.0,0.861,0.1723,True,35.0,35.0,0.0,35.861,0.861,a nakon toga sam se našao sa prijetili koje gnjih sam video nekod...
+5,38,38govornik2.wav,govornik2,8,35.0,40.0,5.0,0.859,0.1717,True,40.0,40.0,0.0,40.859,0.859,svojili komesici. Rozgovarali smo oposlu putovanjima i planovima...
+5,38,38govornik2.wav,govornik2,9,40.0,45.0,5.0,0.86,0.1719,True,45.0,45.0,0.0,45.86,0.86,"zanarjednu godinu. Posli rucka, vreme si iznena da promenilo."
+5,38,38govornik2.wav,govornik2,10,45.0,50.0,5.0,0.86,0.172,True,50.0,50.0,0.0,50.86,0.86,"počela je jaka kiša. Saczekali smo nekoliko minuta, da se vreme ma..."
+5,38,38govornik2.wav,govornik2,11,50.0,55.0,5.0,0.721,0.1441,True,55.0,55.0,0.0,55.721,0.721,kada se vratio.
+5,38,38govornik2.wav,govornik2,12,55.0,60.0,5.0,0.903,0.1806,True,60.0,60.0,0.0,60.903,0.903,Nastavijo sam da radim na ročunaru. Uvici sam zavrošijo preostale obavir...
+5,38,38govornik2.wav,govornik2,13,60.0,64.459,4.459,0.856,0.1921,True,64.459,64.459,0.0,65.315,0.856,"i odluči od ostatak dana, provedem odmarajući se."
+5,39,39govornik3.wav,govornik3,1,0.0,5.0,5.0,0.943,0.1886,True,5.0,5.0,0.0,5.943,0.943,"System, koji obrađa go je u realnom, vreminu mora da rešala nešto drugači i prolimo systema koji..."
+5,39,39govornik3.wav,govornik3,2,5.0,10.0,5.0,0.86,0.1719,True,10.0,10.0,0.0,10.86,0.86,i dobi je kompletna odio zapis. Kod klasišne transkrypcie modom.
+5,39,39govornik3.wav,govornik3,3,10.0,15.0,5.0,0.74,0.1481,True,15.0,15.0,0.0,15.74,0.74,i zatim goberadi.
+5,39,39govornik3.wav,govornik3,4,15.0,20.0,5.0,1.03,0.206,True,20.0,20.0,0.0,21.03,1.03,"je prestavno prestiže, pa ga je potrebno podelite je na manje delovje. A ku koristimo ve..."
+5,39,39govornik3.wav,govornik3,5,20.0,25.0,5.0,0.899,0.1797,True,25.0,25.0,0.0,25.899,0.899,"učakamo kredke segmente, systemože brzva da prikaj željte rezultat, ali modeli ma manje."
+5,39,39govornik3.wav,govornik3,6,25.0,30.0,5.0,0.912,0.1823,True,30.0,30.0,0.0,30.912,0.912,kontekstva zapravila pri poznavania rečenice. Sa druga strana kako koristimu duga se...
+5,39,39govornik3.wav,govornik3,7,30.0,35.0,5.0,2.296,0.4592,True,35.0,35.0,0.0,37.296,2.296,ovo je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je da je
+5,39,39govornik3.wav,govornik3,8,35.0,40.0,5.0,1.02,0.204,True,40.0,40.0,0.0,41.02,1.02,"Zbog toga izboru veločine segmenta, prestavljav kompromis izmiđu, platenci..."
+5,39,39govornik3.wav,govornik3,9,40.0,45.0,5.0,0.942,0.1884,True,45.0,45.0,0.0,45.942,0.942,i i kodeteta transkripcija. Na primer mógu su parajte segmenti od 2...
+5,39,39govornik3.wav,govornik3,10,45.0,50.0,5.0,0.935,0.187,True,50.0,50.0,0.0,50.935,0.935,"5-10 sec. Lest faci u konfiguraciju, mogu će izmeri..."
+5,39,39govornik3.wav,govornik3,11,50.0,55.0,5.0,0.986,0.1972,True,55.0,55.0,0.0,55.986,0.986,"učit i vrijeme obradi, faktor realno-g vrijemena i tašnost konošno-kotranskrib."
+5,39,39govornik3.wav,govornik3,12,55.0,60.0,5.0,1.004,0.2009,True,60.0,60.0,0.0,61.004,1.004,tako je experimento mugu ceva da se utvrdi koja konfiguracija prestavlja
+5,39,39govornik3.wav,govornik3,13,60.0,62.613,2.613,0.842,0.3221,True,62.613,62.613,0.0,63.454,0.842,nevojili kompromis za prakticin system.
+5,40,40govornik3.wav,govornik3,1,0.0,5.0,5.0,0.954,0.1908,True,5.0,5.0,0.0,5.954,0.954,"Ziel, eksperimentalne, elizi, sistima zutomatsko, propoznomavni, govara, jeste da..."
+5,40,40govornik3.wav,govornik3,2,5.0,10.0,5.0,0.915,0.183,True,10.0,10.0,0.0,10.915,0.915,Tvrdje kako razlište faktor u ticu na njegov rad. Možemo menjati vjel třinu.
+5,40,40govornik3.wav,govornik3,3,10.0,15.0,5.0,0.812,0.1623,True,15.0,15.0,0.0,15.812,0.812,"nevo pozadinsku kšuma, jezi govorika, par..."
+5,40,40govornik3.wav,govornik3,4,15.0,20.0,5.0,0.888,0.1776,True,20.0,20.0,0.0,20.888,0.888,Degodiraj način quantizacije i koristinja algoritma.
+5,40,40govornik3.wav,govornik3,5,20.0,25.0,5.0,0.842,0.1684,True,25.0,25.0,0.0,25.842,0.842,za detekcjogora. Svaki experiment treba organizoti tako da...
+5,40,40govornik3.wav,govornik3,6,25.0,30.0,5.0,0.854,0.1709,True,30.0,30.0,0.0,30.854,0.854,da možemo jasno da utferdimo posledicio dregine promen rezultati.
+5,40,40govornik3.wav,govornik3,7,30.0,35.0,5.0,0.942,0.1885,True,35.0,35.0,0.0,35.942,0.942,zati mogu posmatrite kroz više metrika.
+5,40,40govornik3.wav,govornik3,8,35.0,40.0,5.0,2.896,0.5793,True,40.0,40.0,0.0,42.896,2.896,da je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je je
+5,40,40govornik3.wav,govornik3,9,40.0,45.0,5.0,0.806,0.1612,True,45.0,45.0,0.0,45.806,0.806,zlikuje otasno referentno transkripte.
+5,40,40govornik3.wav,govornik3,10,45.0,50.0,5.0,0.874,0.1749,True,50.0,50.0,0.0,50.874,0.874,potrencije pokazuje koliko vremeno je potremno zobradu do karel...
+5,40,40govornik3.wav,govornik3,11,50.0,55.0,5.0,0.824,0.1647,True,55.0,55.0,0.0,55.824,0.824,učično time factor po vezji vreme obrade sa
+5,40,40govornik3.wav,govornik3,12,55.0,60.0,5.0,0.976,0.1952,True,60.0,60.0,0.0,60.976,0.976,"u kanalajem samog zvušnog zapisa. Potrošnji mi mori je posivnu značinak, kada model treba..."
+5,40,40govornik3.wav,govornik3,13,60.0,65.0,5.0,0.922,0.1845,True,65.0,65.0,0.0,65.922,0.922,da radi na urodjemno se ogranitčne nimi resorsima.
+5,40,40govornik3.wav,govornik3,14,65.0,70.0,5.0,1.12,0.2241,True,70.0,70.0,0.0,71.12,1.12,"u ovim u konfiguraciju, koja ne mora biti najbolje prema."
+5,40,40govornik3.wav,govornik3,15,70.0,75.0,5.0,0.979,0.1958,True,75.0,75.0,0.0,75.979,0.979,"sva koji podinešno metrici, ali prestavlja dober kompromist."
+5,40,40govornik3.wav,govornik3,16,75.0,79.772,4.772,0.907,0.1902,True,79.772,79.772,0.0,80.68,0.907,izmiju tačnosti brzine i potrebnih račanarskih resursa.
+10,36,36govornik1.wav,govornik1,1,0.0,10.0,10.0,1.221,0.1221,True,10.0,10.0,0.0,11.221,1.221,Savrimini sistemi za otomacko prepoznavanja govara imaju velik broje praktičnih primjenu. Mogu se korisiti za otomacko pravnjenje transkripata.
+10,36,36govornik1.wav,govornik1,2,10.0,20.0,10.0,1.439,0.1439,True,20.0,20.0,0.0,21.439,1.439,"sastanaka generisanje titlova, glasov neasistente, pretregu multimerijalno-xadrgeja i povojšanje pristoparšnosti digitalne systema."
+10,36,36govornik1.wav,govornik1,3,20.0,30.0,10.0,1.469,0.1469,True,30.0,30.0,0.0,31.469,1.469,"Ipak kvalitet njihovo grada zavisuju od velekog broje faktor. Gornici i mjur različite glasove, akcenti i brzine govor."
+10,36,36govornik1.wav,govornik1,4,30.0,40.0,10.0,1.21,0.121,True,40.0,40.0,0.0,41.21,1.21,"Do hsnemcim mogu nasati koristjnjem račetih mikrofon je i u razečitim prostorijem. Dolatnim problem predstavlja pozadenjski šum, sistem koji veoma do..."
+10,36,36govornik1.wav,govornik1,5,40.0,50.0,10.0,1.21,0.121,True,50.0,50.0,0.0,51.21,1.21,"Dobro radi u tihvi prostoriji ne mora da postinijesti rezultat na ulici i utama bil. Zbog toga, evalulacije sistema ne bi trevalo da bude zastanan."
+10,36,36govornik1.wav,govornik1,6,50.0,60.0,10.0,1.24,0.124,True,60.0,60.0,0.0,61.24,1.24,"na samo jednom zvošnom zapisu. Potrano korisiti više govornika, različite tuži ne snimeka i različite uslove. Po red taršnosti."
+10,36,36govornik1.wav,govornik1,7,60.0,69.01,9.01,1.17,0.1299,True,69.01,69.01,0.0,70.18,1.17,s skripsije važne analizirati vremi izvršavanja. Potrošnju memoria isplosomno sistemada obradio zvuk dovoljno brazo za praktičnu primenu.
+10,37,37govornik2.wav,govornik2,1,0.0,10.0,10.0,1.043,0.1043,True,10.0,10.0,0.0,11.043,1.043,"Kada govorimo o performansama modela za prepoznavanje govora, postuje dve razlicite stvari koje želimo da postignemo."
+10,37,37govornik2.wav,govornik2,2,10.0,20.0,10.0,1.16,0.116,True,20.0,20.0,0.0,21.16,1.16,Prvoje što tačni i transcript a druga što efikastnje izvršalani. Veći model može boljeda prepozna komplikovane rečenic.
+10,37,37govornik2.wav,govornik2,3,20.0,30.0,10.0,1.071,0.1071,True,30.0,30.0,0.0,31.071,1.071,"i ljegovor u težim uslojima, ali isto vremeno može za tevati mnogo više memoria i vremena. Mani model može biti nešto..."
+10,37,37govornik2.wav,govornik2,4,30.0,40.0,10.0,1.021,0.1021,True,40.0,40.0,0.0,41.021,1.021,"u manje precizen, ali dovoljno brz da se koristi na običnom laptopu. Quantizacija prestavlja još jedan način optimizacija."
+10,37,37govornik2.wav,govornik2,5,40.0,50.0,10.0,1.022,0.1022,True,50.0,50.0,0.0,51.022,1.022,je je omogućava korištine numeričko k formata manje preciznosti. Time se može smanje tika ličina potrebne memoria i u...
+10,37,37govornik2.wav,govornik2,6,50.0,60.0,10.0,1.039,0.1039,True,60.0,60.0,0.0,61.039,1.039,"obraza ti obrada. Medjutim, svaka optimizacija mora da bude eksperimentalno proverena. Mi je dovoljno pokazati..."
+10,37,37govornik2.wav,govornik2,7,60.0,70.0,10.0,1.084,0.1084,True,70.0,70.0,0.0,71.084,1.084,i jedna konfiguracija broža. Potrebno je proveriti da lijenje na tačnost ostala prihvatliva. Upravo za to se koriste metrike...
+10,37,37govornik2.wav,govornik2,8,70.0,80.0,10.0,1.046,0.1046,True,80.0,80.0,0.0,81.046,1.046,kao što su vort error rat latencija i real team factor kojo mogučavaju da razlicite konfiguracije modela budu u
+10,37,37govornik2.wav,govornik2,9,80.0,82.431,2.431,0.766,0.315,True,82.431,82.431,0.0,83.197,0.766,u poridjene na objektiva naci.
+10,38,38govornik2.wav,govornik2,1,0.0,10.0,10.0,1.063,0.1063,True,10.0,10.0,0.0,11.063,1.063,Prošle nedelje imao sam prilično izpunjen dan. U jutru sam usto oranije jer sam morao da završim nekoliko obave za pre odlaska u gra.
+10,38,38govornik2.wav,govornik2,2,10.0,20.0,10.0,1.06,0.106,True,20.0,20.0,0.0,21.06,1.06,posledoručka proverió sam poruk je pripremio stvari koji su mi bil je potrebne i kreno o automobilo. Na puto je bilo vi...
+10,38,38govornik2.wav,govornik2,3,20.0,30.0,10.0,1.099,0.1099,True,30.0,30.0,0.0,31.099,1.099,Piliše sa abrecie negošto sam očikivo. Pami je trebalo skoro pola sata dastignem do centra. Prvo sam otyšo do prodavnice zatim do ba...
+10,38,38govornik2.wav,govornik2,4,30.0,40.0,10.0,1.027,0.1027,True,40.0,40.0,0.0,41.027,1.027,a nakon toga sam se našao sa prijetili koje gnisam video nekoliko mesici. Rozgovarali smo o poslu putovanjima i planovima.
+10,38,38govornik2.wav,govornik2,5,40.0,50.0,10.0,1.238,0.1238,True,50.0,50.0,0.0,51.238,1.238,"za narednu godinu. Posli rucka, vreme si iznena da promenilo i počela je jaka kisja. Saczekali smo nekoliko minuta da se vreme ma..."
+10,38,38govornik2.wav,govornik2,6,50.0,60.0,10.0,1.122,0.1122,True,60.0,60.0,0.0,61.122,1.122,"malo smiri, a onda smo krenu li kuci. Kad da sam se vratio, nastavio sam da radim na racunaru. Uviči sam zavrošio preostale obavir..."
+10,38,38govornik2.wav,govornik2,7,60.0,64.459,4.459,0.97,0.2175,True,64.459,64.459,0.0,65.428,0.97,"i odluči od ostatak dana, provedem odmarajući se."
+10,39,39govornik3.wav,govornik3,1,0.0,10.0,10.0,1.405,0.1405,True,10.0,10.0,0.0,11.405,1.405,"System, koji obrađa go je u realnom, vreminu morada, rešava nešto drugači i provimo sistema, koji dobije kompleta na odio zapis. Ko klasišne transkriptcie modom..."
+10,39,39govornik3.wav,govornik3,2,10.0,20.0,10.0,1.133,0.1133,True,20.0,20.0,0.0,21.133,1.133,"i zatim goberadi. Kodrjavno, gvrjame na zvuk, neprestavno pristiže, pa ga je potrebno podeliti na manje delove. Ako koristimo, ve..."
+10,39,39govornik3.wav,govornik3,3,20.0,30.0,10.0,1.494,0.1494,True,30.0,30.0,0.0,31.494,1.494,"učakavamo kredke segmente, systemože brzo da prikaj željte rezultat, ali modeli ma manje kontekstta zapravila pripoznala njerečenice. Sada drugi stranje, kako koristimo duga se..."
+10,39,39govornik3.wav,govornik3,4,30.0,40.0,10.0,1.714,0.1714,True,40.0,40.0,0.0,41.714,1.714,svoj korestik mora duži da čekran je rezultat. Zbog toga izboru većine segmenta prestavljav kompromis izmiđu.
+10,39,39govornik3.wav,govornik3,5,40.0,50.0,10.0,1.304,0.1304,True,50.0,50.0,0.0,51.304,1.304,i i kodite ta transkription. Na primer mogu se oporeite segmenti od 2-5-10 sekundi. Da svaku konfiguraciju mogu či izmeri...
+10,39,39govornik3.wav,govornik3,6,50.0,60.0,10.0,1.739,0.1739,True,60.0,60.0,0.0,61.739,1.739,"učitim vremeno obradi, faktorealno-gvremena i tašnost konošno-k transkripta. Tako je eksperimento, mugu ćava da se utvrdi koja konfiguracija prestavlja."
+10,39,39govornik3.wav,govornik3,7,60.0,62.613,2.613,1.234,0.4724,True,62.613,62.613,0.0,63.847,1.234,nevojili kompromis za prakticin system.
+10,40,40govornik3.wav,govornik3,1,0.0,10.0,10.0,1.761,0.1761,True,10.0,10.0,0.0,11.761,1.761,Ziel eksperimentalna analizija sistema z automatiskopropoznomanja govara je ste da se otvrdi kako razlišiti faktor u ticu na nije govrad. Možemo menjati vjeroći numot.
+10,40,40govornik3.wav,govornik3,2,10.0,20.0,10.0,1.241,0.1241,True,20.0,20.0,0.0,21.241,1.241,"njela pozadinskog šuma, jezi govorika, parametre dekodiraja, nacin kvantizacije i koristinja algoritma."
+10,40,40govornik3.wav,govornik3,3,20.0,30.0,10.0,1.579,0.1579,True,30.0,30.0,0.0,31.579,1.579,za detekciju gora. Svaki experiment treba organizoji tako da možemo jasno da utvrdimo postajice od ređene promen. Resultati.
+10,40,40govornik3.wav,govornik3,4,30.0,40.0,10.0,1.264,0.1264,True,40.0,40.0,0.0,41.264,1.264,"zati mogu posmatrati kroz više metrika. Vore Error Rate pokazuje, koliko se prepoznaći tekstra."
+10,40,40govornik3.wav,govornik3,5,40.0,50.0,10.0,1.285,0.1285,True,50.0,50.0,0.0,51.285,1.285,"zlikuje otasno-referentno transkripta. Potemcije pokazuje, koliko vremione potrebno zobradu do k..."
+10,40,40govornik3.wav,govornik3,6,50.0,60.0,10.0,1.458,0.1458,True,60.0,60.0,0.0,61.458,1.458,"učanjali tajem faktor, povijedzili vreme obrede sa trajenim samog zvušnog zapisa. Potrošnjim, mi mori je posivno značinal, kada model treba..."
+10,40,40govornik3.wav,govornik3,7,60.0,70.0,10.0,1.349,0.1349,True,70.0,70.0,0.0,71.349,1.349,da radi na urodjemelj se ogranićenim resorzima. Kombinojom o inch rezultata možemo da pronatjemo konfiguraciju koja ne mora biti najbolje prema.
+10,40,40govornik3.wav,govornik3,8,70.0,79.772,9.772,1.288,0.1318,True,79.772,79.772,0.0,81.061,1.288,"Svakoj podinešno metrici, ali prestavlja dobar kompromist izmiju tačnosti, brizine i potrebnih racčanarskih resursa."

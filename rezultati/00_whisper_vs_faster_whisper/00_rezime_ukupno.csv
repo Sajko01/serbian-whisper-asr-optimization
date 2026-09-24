@@ -1,0 +1,4 @@
+﻿Model,Prosečan WER [%],Medijana WER [%],Prosečno vreme [s],Prosečan RTF,Ubrzanje u odnosu na Original
+Original Whisper,49.52,50.0,3.617,0.163,1.0
+Faster-Whisper INT8,43.078,42.295,3.275,0.136,1.104
+Faster-Whisper FLOAT32,42.945,45.275,4.93,0.206,0.734

@@ -1,0 +1,801 @@
+001|Tuja Smaragd je zimzelena biljka pogodna za živu ogradu.
+002|Lovor višnja brzo formira gustu zelenu ogradu tokom godine.
+003|Fotinija Red Robin ima mlade crvene listove u proleće.
+004|Kuglasti javor je ukrasno drvo za dvorišta i parkove.
+005|Katalpa razvija široku krošnju i velike zelene listove.
+006|Breza dobro uspeva na sunčanim mestima sa umerenim zalivanjem.
+007|Hibiskus cveta tokom leta i voli dosta sunčeve svetlosti.
+008|Hortenzija najbolje uspeva u polusenci i vlažnom zemljištu.
+009|Ruže zahtevaju redovno orezivanje i prihranu tokom sezone.
+010|Lavanda voli sunce i dobro drenirano zemljište.
+011|Muškatla je jedna od najpopularnijih balkonskih biljaka.
+012|Surfinija obilno cveta od proleća do kasne jeseni.
+013|Petunija traži redovno zalivanje i uklanjanje precvetalih cvetova.
+014|Begonija uspeva u senci i polusenci.
+015|Vinka dobro podnosi visoke letnje temperature.
+016|Kadifica odbija pojedine štetočine u bašti.
+017|Verbena cveta dugo i privlači pčele i leptire.
+018|Gazanija otvara cvetove kada ima dovoljno sunca.
+019|Lobelija je pogodna za viseće saksije i žardinjere.
+020|Dalija ima velike cvetove različitih boja.
+021|Maćuhica cveta tokom jeseni i ranog proleća.
+022|Krizantema je tipična jesenja ukrasna biljka.
+023|Tisa raste sporije od tuje Smaragd.
+024|Kleka je otporna na sušu i niske temperature.
+025|Šimšir se često koristi za dekorativno orezivanje.
+026|Nana brzo raste i širi se u bašti.
+027|Ruzmarin voli sunčane položaje i manje vode.
+028|Žalfija je višegodišnja lekovita biljka.
+029|Timijan podnosi sušu veoma dobro.
+030|Origano uspeva u laganom i propusnom zemljištu.
+031|Bosiljak zahteva često zalivanje tokom leta.
+032|Matičnjak ima prijatan miris limuna.
+033|Lavanda privlači pčele tokom cvetanja.
+034|Menta dobro uspeva u saksiji i dvorištu.
+035|Peršun voli plodno i vlažno zemljište.
+036|Vlažnost zemljišta treba redovno proveravati.
+037|Biljke zalivamo rano ujutru ili uveče.
+038|Previše vode može izazvati truljenje korena.
+039|Malč pomaže da zemlja duže zadrži vlagu.
+040|Prihrana biljaka obavlja se tokom vegetacije.
+041|Kompost poboljšava strukturu zemljišta.
+042|Organsko đubrivo obogaćuje zemljište hranljivim materijama.
+043|Mineralno đubrivo koristi se prema preporučenoj dozi.
+044|Biljke u saksijama traže češće zalivanje.
+045|Saksije moraju imati dobru drenažu.
+046|Presađivanje je najbolje obaviti u proleće.
+047|Korov treba redovno uklanjati iz bašte.
+048|Orezivanje podstiče novi rast biljaka.
+049|Precvetale cvetove treba ukloniti na vreme.
+050|Biljke posle sadnje treba dobro zaliti.
+051|Jabuka najbolje uspeva na sunčanom mestu.
+052|Kruška zahteva redovno orezivanje tokom zime.
+053|Šljiva dobro podnosi kontinentalnu klimu.
+054|Trešnja cveta početkom proleća.
+055|Višnja daje plodove početkom leta.
+056|Breskva voli propusno zemljište.
+057|Kajsija rano cveta i osetljiva je na mraz.
+058|Dunja uspeva na toplim položajima.
+059|Orah razvija veliku krošnju tokom godina.
+060|Lešnik traži dovoljno prostora za rast.
+061|Borovnica voli kiselo zemljište.
+062|Malina zahteva redovno navodnjavanje.
+063|Kupina raste uz potporu ili ogradu.
+064|Jagoda daje plodove već prve godine.
+065|Vinova loza zahteva rezidbu svake godine.
+066|Kuglasti bagrem koristi se za drvored i dvorište.
+067|Crveni javor ima dekorativne listove tokom jeseni.
+068|Ukrasna trešnja obilno cveta u proleće.
+069|Lipa dobro podnosi gradske uslove.
+070|Javor treba saditi dalje od temelja kuće.
+071|Mlada sadnica zahteva oslonac posle sadnje.
+072|Koren sadnice ne sme biti suv.
+073|Sadnice se sade u prethodno pripremljenu jamu.
+074|Zemlju oko sadnice treba blago sabiti.
+075|Posle sadnje obavezno zaliti biljku.
+076|Pepelnica je česta bolest ukrasnih biljaka.
+077|Lisne vaši napadaju mlade izdanke biljaka.
+078|Crveni pauk se javlja tokom toplog vremena.
+079|Puževi mogu oštetiti mlade sadnice.
+080|Biljke treba pregledati zbog štetočina.
+081|Preventivna zaštita smanjuje rizik od bolesti.
+082|Prskanje se obavlja po mirnom vremenu.
+083|Jaki vetrovi mogu oštetiti mlade biljke.
+084|Biljke treba zaštititi od kasnog prolećnog mraza.
+085|Suša usporava rast biljaka.
+086|Navodnjavanje kap po kap štedi vodu.
+087|Sunčani položaj pogoduje lavandi i ruzmarinu.
+088|Polusenka odgovara hortenziji i begoniji.
+089|Senka je pogodna za pojedine ukrasne biljke.
+090|Dobro zemljište treba da bude rastresito.
+091|Peskovito zemljište brzo propušta vodu.
+092|Glinovito zemljište zadržava više vlage.
+093|Biljke najbolje rastu u plodnom zemljištu.
+094|Koren mora imati dovoljno vazduha u zemlji.
+095|Rasadnik nudi sadnice tokom cele sezone.
+096|Dostava biljaka moguća je na kućnu adresu.
+097|Biljke treba transportovati pažljivo.
+098|Sadnice treba čuvati u hladu pre sadnje.
+099|Redovno zalivanje povećava uspešnost prijema sadnica.
+100|Zdrava sadnica ima razvijen koren i zelene listove.
+101|Kvalitetan sadni materijal predstavlja osnovu za pravilan razvoj biljke.
+102|Kontejnerske sadnice mogu se saditi tokom većeg dela godine.
+103|Sadnice sa golim korenom najčešće se sade tokom mirovanja vegetacije.
+104|Dubina sadnje treba da odgovara veličini korenovog sistema.
+105|Korenov vrat biljke ne treba zatrpavati preduboko zemljom.
+106|Oštećene delove korena treba ukloniti pre sadnje.
+107|Supstrat za proizvodnju rasada mora imati dobru propusnost.
+108|Mlade biljke zahtevaju pažljivu negu nakon presađivanja.
+109|Rasad se postepeno privikava na spoljašnje uslove pre sadnje.
+110|Kaljenje rasada smanjuje stres prilikom presađivanja na otvoreno.
+111|Biljke se mogu razmnožavati semenom, reznicama ili deljenjem.
+112|Zelene reznice uzimaju se sa zdravih matičnih biljaka.
+113|Ožiljavanje reznica zahteva odgovarajuću temperaturu i vlažnost.
+114|Hormon za ožiljavanje može podstaći razvoj mladog korena.
+115|Setva se obavlja na dubini koja zavisi od veličine semena.
+116|Sitno seme obično se seje veoma plitko u pripremljen supstrat.
+117|Klijanje semena zavisi od temperature, vlage i kvaliteta semena.
+118|Mlade biljke treba zaštititi od naglih temperaturnih promena.
+119|Pikiranjem se mladim biljkama obezbeđuje više prostora za razvoj.
+120|Presađivanje treba obaviti bez velikog oštećenja korenovog sistema.
+121|Sadna jama treba da bude šira od korenove bale sadnice.
+122|Korenovu balu treba dobro natopiti vodom pre sadnje.
+123|Nakon sadnje zemljište se zaliva kako bi naleglo oko korena.
+124|Visoke sadnice mogu zahtevati vezivanje za drveni potporni kolac.
+125|Redovno praćenje mladih sadnica omogućava rano otkrivanje problema.
+126|Paradajz zahteva dosta svetlosti i redovno snabdevanje vodom.
+127|Paprika najbolje uspeva pri visokim temperaturama tokom vegetacije.
+128|Krastavac ima velike potrebe za vodom tokom formiranja plodova.
+129|Zelena salata dobro podnosi niže temperature u proleće.
+130|Kupus zahteva plodno zemljište i dovoljno vlage za pravilan razvoj.
+131|Luk se može proizvoditi direktnom setvom ili sadnjom arpadžika.
+132|Beli luk se najčešće razmnožava sadnjom zdravih čenova.
+133|Šargarepa najbolje razvija koren u rastresitom zemljištu.
+134|Krompir se sadi kada se zemljište dovoljno zagreje.
+135|Tikvice zahtevaju dovoljno prostora zbog snažnog vegetativnog rasta.
+136|Plodovi paradajza postepeno sazrevaju tokom toplih letnjih meseci.
+137|Rasad paprike treba zaštititi od niskih prolećnih temperatura.
+138|Paradajzu se tokom razvoja mogu uklanjati bočni izdanci.
+139|Visoke sorte paradajza zahtevaju odgovarajuću potporu.
+140|Redovna berba krastavaca podstiče formiranje novih plodova.
+141|Plodored pomaže u očuvanju plodnosti i zdravlja zemljišta.
+142|Istu povrtarsku kulturu ne treba stalno gajiti na istoj parceli.
+143|Mahunarke mogu doprineti povećanju količine azota u zemljištu.
+144|Grašak dobro uspeva pri umerenim prolećnim temperaturama.
+145|Pasulj se seje nakon prestanka opasnosti od jačih mrazeva.
+146|Proizvodnja zdravog rasada važna je za postizanje dobrog prinosa.
+147|Plastenička proizvodnja omogućava bolju kontrolu uslova gajenja.
+148|Provetravanje plastenika smanjuje previsoku temperaturu i vlažnost.
+149|Kondenzacija u plasteniku može pogodovati razvoju biljnih bolesti.
+150|Temperatura u plasteniku treba redovno da se kontroliše.
+151|Analiza zemljišta pomaže pri određivanju odgovarajuće količine đubriva.
+152|Kiselost zemljišta izražava se pomoću pH vrednosti.
+153|Različite biljne vrste zahtevaju različitu pH vrednost zemljišta.
+154|Azot je važan za razvoj zelenih vegetativnih delova biljke.
+155|Fosfor ima značajnu ulogu u razvoju korenovog sistema.
+156|Kalijum doprinosi otpornosti biljaka i kvalitetu njihovih plodova.
+157|Nedostatak hranljivih elemenata može izazvati promenu boje listova.
+158|Prekomerna količina đubriva može oštetiti koren biljke.
+159|Folijarna prihrana nanosi se direktno preko površine listova.
+160|Stajnjak treba pravilno pripremiti pre unošenja u zemljište.
+161|Humus poboljšava fizičke i hemijske osobine zemljišta.
+162|Organska materija povećava sposobnost zemljišta da zadržava vodu.
+163|Drenaža sprečava dugotrajno zadržavanje vode oko korena.
+164|Teška zemljišta mogu zahtevati poboljšavanje njihove strukture.
+165|Navodnjavanje treba prilagoditi potrebama određene biljne vrste.
+166|Sistem kap po kap dovodi vodu neposredno do zone korena.
+167|Prekomerno navodnjavanje može smanjiti količinu kiseonika u zemljištu.
+168|Nedostatak vode najpre se primećuje kroz gubitak čvrstine listova.
+169|Potrebe biljaka za vodom povećavaju se tokom toplih letnjih dana.
+170|Vlažnost supstrata može se kontrolisati pre svakog narednog zalivanja.
+171|Kišnica se može sakupljati i koristiti za navodnjavanje biljaka.
+172|Malčiranje smanjuje isparavanje vode sa površine zemljišta.
+173|Organski malč vremenom se razgrađuje i obogaćuje zemljište.
+174|Zbijeno zemljište otežava razvoj korena i kretanje vode.
+175|Obrada zemljišta poboljšava uslove za setvu i razvoj biljaka.
+176|Plamenjača može izazvati ozbiljna oštećenja kod osetljivih biljnih vrsta.
+177|Siva trulež često se razvija u uslovima povećane vlažnosti.
+178|Simptomi bolesti mogu se prvo pojaviti na mladim listovima.
+179|Zaražene biljne delove treba ukloniti iz zasada.
+180|Fungicidi se koriste za suzbijanje određenih gljivičnih bolesti.
+181|Insekticidi se koriste za kontrolu štetnih vrsta insekata.
+182|Herbicidi se primenjuju za suzbijanje neželjenih korovskih biljaka.
+183|Sredstva za zaštitu bilja koriste se prema uputstvu proizvođača.
+184|Pčele i drugi oprašivači imaju važnu ulogu u poljoprivredi.
+185|Tretiranje biljaka tokom cvetanja može predstavljati rizik za oprašivače.
+186|Monilija može izazvati sušenje cvetova i grančica kod voćaka.
+187|Krastavost jabuke može oštetiti listove i plodove.
+188|Rezidbom voćaka regulišu se rast, rodnost i oblik krošnje.
+189|Zimska rezidba obavlja se tokom perioda mirovanja vegetacije.
+190|Letnja rezidba može se koristiti za uklanjanje suvišnih izdanaka.
+191|Kalemljenje omogućava kombinovanje osobina podloge i plemke.
+192|Podloga može uticati na bujnost i otpornost kalemljene voćke.
+193|Oprašivanje je neophodno za formiranje plodova kod mnogih vrsta.
+194|Proređivanje plodova može poboljšati njihovu veličinu i kvalitet.
+195|Mraz tokom cvetanja može značajno smanjiti prinos voćaka.
+196|Protivgradna mreža štiti zasad od mehaničkih oštećenja grada.
+197|Agrotehničke mere treba prilagoditi biljnoj vrsti i uslovima proizvodnje.
+198|Vegetacioni period predstavlja deo godine tokom kojeg biljka aktivno raste.
+199|Mikroklimatski uslovi mogu značajno da utiču na razvoj poljoprivrednih kultura.
+200|Pravovremena primena agrotehničkih mera doprinosi stabilnijem prinosu.
+201|Pšenica je jedna od najvažnijih ratarskih kultura, a njen prinos značajno zavisi od sorte, plodnosti zemljišta i vremenskih uslova.
+202|Kukuruz zahteva dovoljno toplote i vlage, posebno tokom perioda intenzivnog porasta i formiranja klipa.
+203|Ječam se koristi za ishranu životinja, ljudsku ishranu i kao važna sirovina u proizvodnji slada.
+204|Ovas dobro podnosi nešto hladnije uslove i može uspevati na zemljištima slabijeg kvaliteta od pšenice.
+205|Raž je poznata po dobroj otpornosti na niske temperature i uspeva u područjima sa nepovoljnijim klimatskim uslovima.
+206|Suncokret razvija dubok korenov sistem i predstavlja jednu od najznačajnijih uljarica u domaćoj poljoprivrednoj proizvodnji.
+207|Soja zahteva kvalitetno zemljište i odgovarajuću količinu vode, naročito tokom cvetanja i formiranja mahuna.
+208|Uljana repica se seje tokom jeseni i zahteva dobru pripremu zemljišta kako bi biljke pravilno prezimile.
+209|Šećerna repa zahteva duboko, plodno i dobro obrađeno zemljište kako bi razvila kvalitetan i krupan koren.
+210|Optimalan rok setve zavisi od biljne vrste, temperature zemljišta, količine vlage i klimatskih karakteristika određenog područja.
+211|Prekasna setva može skratiti vegetacioni period i negativno uticati na razvoj biljaka i konačan prinos.
+212|Setvena norma određuje potrebnu količinu semena po jedinici površine u zavisnosti od kulture i uslova proizvodnje.
+213|Dubina setve mora biti prilagođena veličini semena, strukturi zemljišta i trenutnoj količini vlage u površinskom sloju.
+214|Kvalitetno deklarisano seme treba da ima visoku klijavost, odgovarajuću čistoću i poznato poreklo.
+215|Sklop biljaka predstavlja broj pravilno raspoređenih biljaka na određenoj površini nakon uspešnog nicanja useva.
+216|Neujednačeno nicanje može nastati zbog loše pripreme zemljišta, nedostatka vlage ili neodgovarajuće dubine setve.
+217|Bokorenje predstavlja razvoj bočnih izdanaka kod žitarica i značajno utiče na kasnije formiranje prinosa.
+218|Klasanje je važna razvojna faza pšenice tokom koje se formirani klas pojavljuje iz lisnog rukavca.
+219|Nalivanje zrna predstavlja period kada se u zrnu intenzivno akumuliraju hranljive materije i formira konačna masa.
+220|Poleganje žitarica otežava žetvu i može dovesti do značajnih gubitaka u količini i kvalitetu prinosa.
+221|Žetva pšenice počinje kada zrno dostigne odgovarajuću zrelost i sadržaj vlage pogodan za kombajniranje.
+222|Prinos ratarskih kultura najčešće se izražava u kilogramima ili tonama proizvedenog zrna po hektaru površine.
+223|Plodoredom se različite biljne kulture planski smenjuju na istoj parceli tokom više uzastopnih proizvodnih godina.
+224|Pravilna rotacija useva može smanjiti pojavu bolesti, štetočina i korova, a istovremeno očuvati plodnost zemljišta.
+225|Žetveni ostaci mogu se usitniti i uneti u zemljište kako bi povećali količinu organske materije.
+226|Traktor predstavlja osnovnu pogonsku mašinu u poljoprivredi i koristi se za veliki broj različitih agrotehničkih operacija.
+227|Snaga traktora treba da odgovara veličini priključne mašine, vrsti posla i uslovima rada na parceli.
+228|Plug se koristi za osnovnu obradu zemljišta, prevrtanje brazde i unošenje biljnih ostataka u dublje slojeve.
+229|Dubina oranja određuje se prema tipu zemljišta, biljnoj kulturi i planiranom sistemu poljoprivredne proizvodnje.
+230|Tanjirača usitnjava grudve zemlje i biljne ostatke nakon osnovne obrade i priprema površinu za naredne operacije.
+231|Setvospremač se koristi za završnu pripremu površinskog sloja zemljišta neposredno pre obavljanja setve.
+232|Rotaciona freza intenzivno usitnjava zemljište pomoću radnih elemenata koji se okreću velikom brzinom.
+233|Sejalica omogućava ravnomerno raspoređivanje semena na unapred podešenu dubinu i međusobno rastojanje.
+234|Pneumatske sejalice omogućavaju veoma preciznu setvu kukuruza, suncokreta i drugih širokorednih biljnih kultura.
+235|Rasipač mineralnog đubriva mora biti pravilno podešen kako bi hranljive materije bile ravnomerno raspoređene po parceli.
+236|Prskalica se koristi za primenu sredstava za zaštitu bilja u tačno određenoj koncentraciji i količini vode.
+237|Dizne na prskalici utiču na veličinu kapljica, širinu zahvata i ravnomernost nanošenja preparata na biljke.
+238|Kombajn u jednom prolazu obavlja košenje, vršidbu, odvajanje zrna i izbacivanje preostalih biljnih ostataka.
+239|Podešavanje kombajna mora biti prilagođeno biljnoj kulturi i trenutnim uslovima kako bi se smanjili gubici tokom žetve.
+240|Balirka sakuplja osušenu biljnu masu i formira bale pogodne za transport, skladištenje i kasniju upotrebu.
+241|Kosačica se koristi za košenje trave, lucerke i drugih biljaka namenjenih proizvodnji kabaste stočne hrane.
+242|Kultivator omogućava međurednu obradu useva, uništavanje korova i rastresanje površinskog sloja zemljišta.
+243|Podrivač razbija zbijene slojeve zemljišta bez klasičnog prevrtanja čitavog obrađivanog sloja.
+244|Redovno održavanje poljoprivrednih mašina smanjuje mogućnost kvarova i produžava njihov radni vek.
+245|Pritisak u pneumaticima traktora može uticati na proklizavanje, potrošnju goriva i sabijanje zemljišta.
+246|Pre početka rada potrebno je proveriti nivo motornog ulja, rashladne tečnosti i stanje hidrauličnog sistema traktora.
+247|Kardansko vratilo prenosi snagu sa traktora na određene priključne poljoprivredne mašine tokom njihovog rada.
+248|Hidraulični sistem omogućava podizanje, spuštanje i kontrolu položaja različitih priključnih uređaja na traktoru.
+249|Savremena mehanizacija koristi satelitsku navigaciju kako bi se smanjilo preklapanje između susednih prohoda po parceli.
+250|Automatsko upravljanje traktorom može povećati preciznost rada i smanjiti nepotrebnu potrošnju goriva i repromaterijala.
+251|Podizanje novog voćnjaka počinje analizom zemljišta, izborom odgovarajuće vrste, sorte, podloge i položaja parcele.
+252|Razmak između voćaka određuje se prema bujnosti sorte, korišćenoj podlozi i planiranom uzgojnom obliku krošnje.
+253|Slabobujne podloge omogućavaju gušću sadnju i lakše izvođenje rezidbe, zaštite biljaka i berbe plodova.
+254|Formiranje pravilnog uzgojnog oblika počinje kod mladih voćaka i nastavlja se tokom prvih nekoliko godina razvoja.
+255|Rezidbom se uklanjaju suve, oštećene, bolesne i nepravilno raspoređene grane iz unutrašnjosti krošnje.
+256|Previše intenzivna rezidba može izazvati snažan vegetativni rast i pojavu velikog broja uspravnih mladara.
+257|Rodni pupoljci razlikuju se od vegetativnih pupoljaka prema obliku, veličini i položaju na rodnoj grančici.
+258|Cvetanje voćaka predstavlja posebno osetljiv period jer kasni prolećni mraz može uništiti cvetove i mlade plodove.
+259|Za uspešno oprašivanje pojedinih sorti jabuke potrebno je u zasadu imati odgovarajuće sorte oprašivače.
+260|Pčele tokom cvetanja prenose polen između cvetova i značajno doprinose uspešnom zametanju plodova.
+261|Proređivanje mladih plodova smanjuje opterećenje stabla i omogućava razvoj krupnijih i kvalitetnijih plodova.
+262|Alternativna rodnost predstavlja pojavu kada voćka jedne godine obilno rodi, a sledeće daje znatno manji prinos.
+263|Berba jabuka obavlja se u optimalnom stepenu zrelosti koji zavisi od sorte i njihove planirane namene.
+264|Plodovi namenjeni dužem skladištenju moraju se pažljivo brati kako bi se izbegla mehanička oštećenja pokožice.
+265|Hladnjače omogućavaju kontrolu temperature i vlažnosti kako bi se produžio period čuvanja svežeg voća.
+266|Vinograd treba podizati na položaju koji obezbeđuje dovoljno sunčeve svetlosti, dobro provetravanje i odvođenje viška vode.
+267|Vinova loza se tokom vegetacije vezuje za naslon kako bi mladari imali pravilan položaj i dovoljno svetlosti.
+268|Zimska rezidba vinove loze određuje broj rodnih pupoljaka koji se ostavljaju za narednu vegetacionu sezonu.
+269|Zelena rezidba vinove loze obuhvata različite postupke uklanjanja ili skraćivanja nepotrebnih zelenih delova biljke.
+270|Zakidanje zaperaka može poboljšati provetravanje zone grozdova i olakšati izvođenje mera zaštite vinove loze.
+271|Plamenjača vinove loze naročito se razvija tokom perioda toplog vremena praćenog povećanom vlagom i padavinama.
+272|Pepelnica vinove loze može napasti listove, mladare i bobice tokom različitih faza vegetacionog perioda.
+273|Sadržaj šećera u grožđu predstavlja jedan od važnih pokazatelja prilikom određivanja optimalnog trenutka berbe.
+274|Stono grožđe bere se pažljivo kako bi grozdovi zadržali pravilan izgled i neoštećene bobice tokom transporta.
+275|Vinske sorte grožđa biraju se prema klimatskim uslovima područja i karakteristikama vina koje se želi proizvesti.
+276|Meteorološki uslovi imaju veliki uticaj na rast biljaka, pojavu bolesti, aktivnost štetočina i vreme izvođenja agrotehničkih mera.
+277|Dugotrajan nedostatak padavina smanjuje raspoloživu vlagu u zemljištu i može izazvati ozbiljan stres kod biljaka.
+278|Visoke temperature povećavaju evapotranspiraciju i mogu značajno povećati potrebe poljoprivrednih kultura za dodatnim navodnjavanjem.
+279|Evapotranspiracija predstavlja ukupni gubitak vode isparavanjem sa površine zemljišta i transpiracijom kroz biljne organe.
+280|Relativna vlažnost vazduha utiče na transpiraciju biljaka i može doprineti stvaranju uslova pogodnih za razvoj bolesti.
+281|Rosa koja se dugo zadržava na listovima može omogućiti razvoj pojedinih gljivičnih i bakterijskih oboljenja biljaka.
+282|Grad može za samo nekoliko minuta izazvati ozbiljna mehanička oštećenja listova, mladara, cvetova i plodova.
+283|Jak vetar povećava gubitak vode, može izazvati poleganje useva i otežava pravilnu primenu sredstava za zaštitu bilja.
+284|Mraz nastaje kada temperatura padne dovoljno nisko da izazove oštećenje osetljivog biljnog tkiva.
+285|Fenološke faze predstavljaju karakteristične periode razvoja biljke, poput nicanja, cvetanja, formiranja ploda i sazrevanja.
+286|Fenološko praćenje omogućava da se određene agrotehničke mere primene u najpogodnijoj fazi razvoja biljke.
+287|Precizna poljoprivreda koristi senzore, satelitske podatke i digitalne sisteme za praćenje stanja useva i zemljišta.
+288|Senzori vlažnosti zemljišta omogućavaju proizvođaču da preciznije odredi kada je potrebno započeti navodnjavanje.
+289|Bespilotne letelice mogu snimati poljoprivredne parcele i pomoći pri otkrivanju problema u određenim delovima useva.
+290|Vegetacioni indeksi dobijeni analizom snimaka mogu ukazati na razlike u razvijenosti i zdravstvenom stanju biljaka.
+291|Globalni sistem pozicioniranja omogućava precizno određivanje položaja poljoprivrednih mašina tokom rada na velikim parcelama.
+292|Varijabilna aplikacija omogućava primenu različite količine đubriva ili drugog repromaterijala na pojedinim delovima parcele.
+293|Mapiranje prinosa pokazuje prostorne razlike u količini ostvarenog prinosa između različitih zona iste poljoprivredne parcele.
+294|Električna provodljivost zemljišta može pružiti dodatne informacije o njegovoj strukturi, vlažnosti i prostornoj varijabilnosti.
+295|Održiva poljoprivreda nastoji da uskladi proizvodnju hrane sa očuvanjem zemljišta, vode, biodiverziteta i drugih prirodnih resursa.
+296|Erozija odnosi površinski sloj zemljišta bogat organskom materijom i tako postepeno smanjuje proizvodni potencijal parcele.
+297|Pokrovni usevi mogu zaštititi zemljište od erozije, smanjiti pojavu korova i povećati sadržaj organske materije.
+298|Biodiverzitet poljoprivrednog područja uključuje različite biljne i životinjske vrste koje međusobno utiču na agroekosistem.
+299|Integrisana zaštita bilja kombinuje preventivne, biološke, mehaničke i hemijske mere radi efikasne kontrole štetnih organizama.
+300|Savremena poljoprivredna proizvodnja sve više kombinuje agronomsko znanje, automatizaciju, senzore i analizu velikih količina podataka.
+301|Bakterijske bolesti mogu izazvati pege, nekroze, venuće i truljenje različitih biljnih organa tokom vegetacije.
+302|Virusne infekcije često dovode do mozaika, deformacija listova i smanjenog porasta zaraženih biljaka.
+303|Gljivične bolesti se naročito brzo razvijaju kada su temperatura i vlažnost povoljne za klijanje spora.
+304|Plamenjača krompira može veoma brzo zahvatiti usev ako se ne sprovede pravovremena zaštita.
+305|Pepelnica se prepoznaje po beličastoj prevlaci koja se pojavljuje na površini listova i drugih organa.
+306|Rđa na biljkama formira karakteristične narandžaste ili smeđe pustule na listovima i stabljikama.
+307|Verticilijumsko venuće može izazvati postepeno žućenje, sušenje i propadanje čitavih biljaka.
+308|Fusarioza može napasti koren i provodne sudove, što dovodi do venuća i slabljenja biljke.
+309|Botritis, poznat kao siva trulež, često napada cvetove, plodove i oštećeno biljno tkivo.
+310|Bakterioze se teže suzbijaju kada se jednom prošire kroz zaraženi zasad ili rasadničku proizvodnju.
+311|Dezinfekcija alata smanjuje rizik od prenošenja patogena sa jedne biljke na drugu tokom rezidbe.
+312|Uklanjanje zaraženih biljnih ostataka predstavlja važnu preventivnu meru u zaštiti useva od bolesti.
+313|Preventivni tretmani mogu smanjiti rizik od infekcije kada vremenski uslovi pogoduju razvoju patogena.
+314|Dijagnoza bolesti treba da se zasniva na simptomima, uslovima proizvodnje i po mogućnosti laboratorijskoj analizi.
+315|Pogrešno određena bolest može dovesti do nepotrebne ili neefikasne primene sredstava za zaštitu bilja.
+316|Karenca predstavlja minimalni period koji mora proteći između poslednjeg tretmana i berbe proizvoda.
+317|Radna karenca određuje vreme tokom kojeg nije preporučljivo ulaziti u tretirani usev bez odgovarajuće zaštite.
+318|Rezistentnost patogena može se razviti ako se isti aktivni sastojak koristi previše često.
+319|Rotacija fungicida sa različitim mehanizmima delovanja smanjuje rizik od razvoja rezistentnih populacija patogena.
+320|Tretmane je potrebno planirati prema razvojnoj fazi biljke, prisustvu patogena i vremenskim uslovima.
+321|Visoka vlažnost lista povećava mogućnost infekcije kod velikog broja gljivičnih biljnih bolesti.
+322|Provetravanje zasada smanjuje zadržavanje vlage i može usporiti razvoj određenih bolesti.
+323|Pregust sklop biljaka otežava cirkulaciju vazduha i povećava rizik od pojave gljivičnih infekcija.
+324|Zdrav sadni materijal predstavlja jednu od najvažnijih preventivnih mera u sprečavanju širenja bolesti.
+325|Kontinuirano praćenje zdravstvenog stanja biljaka omogućava bržu reakciju kada se pojave prvi simptomi.
+326|Tripsi oštećuju mlade listove i cvetove sisanjem biljnih sokova, a mogu prenositi i određene biljne viruse.
+327|Bela leptirasta vaš predstavlja čestu štetočinu u plasteničkoj proizvodnji povrća i ukrasnog bilja.
+328|Grinje se posebno brzo razmnožavaju u toplim i suvim uslovima tokom letnjih meseci.
+329|Krompirova zlatica može prouzrokovati značajno oštećenje lisne mase kod krompira ako se ne kontroliše.
+330|Kukuruzni plamenac oštećuje stabljiku i klip, što može povećati rizik od lomljenja i pojave sekundarnih infekcija.
+331|Lisne vaši formiraju kolonije na mladim izdancima i mogu usporiti rast napadnutih biljaka.
+332|Feromonske klopke koriste se za praćenje leta određenih štetnih insekata u voćnjacima i drugim zasadima.
+333|Žute lepljive ploče mogu pomoći u praćenju prisustva bele leptiraste vaši, tripsa i drugih sitnih insekata.
+334|Biološka zaštita koristi prirodne neprijatelje štetočina kako bi se smanjila potreba za hemijskim tretmanima.
+335|Parazitoidi polažu jaja u ili na telo domaćina i mogu biti korisni u kontroli štetnih insekata.
+336|Predatorske grinje koriste se u zaštićenom prostoru za suzbijanje pojedinih vrsta tripsa i štetnih grinja.
+337|Insekticide treba primenjivati ciljano i samo kada brojnost štetočina pređe ekonomski prag štetnosti.
+338|Ekonomski prag štetnosti predstavlja nivo napada pri kojem troškovi štete opravdavaju primenu mera zaštite.
+339|Herbicidi se mogu primenjivati pre setve, pre nicanja ili nakon nicanja, zavisno od preparata i kulture.
+340|Selektivni herbicid suzbija određene korove bez ozbiljnog oštećenja gajene biljne kulture.
+341|Totalni herbicidi deluju na veliki broj biljnih vrsta i zato zahtevaju posebno pažljivu primenu.
+342|Mehaničko suzbijanje korova može se obaviti okopavanjem, kultivacijom, košenjem ili ručnim uklanjanjem.
+343|Korovi konkurišu usevu za vodu, svetlost, hranljive materije i prostor potreban za razvoj.
+344|Višegodišnji korovi mogu se teško iskoreniti zbog razvijenih podzemnih organa za razmnožavanje.
+345|Ambrozija proizvodi velike količine polena i predstavlja značajan problem u poljoprivredi i javnom zdravlju.
+346|Divlji sirak može predstavljati veoma konkurentan korov u širokorednim ratarskim kulturama.
+347|Pravilno doziranje pesticida smanjuje rizik od fitotoksičnosti i nepotrebnog opterećenja životne sredine.
+348|Fitotoksičnost se može pojaviti kada preparat, koncentracija ili vreme primene nisu odgovarajući za biljnu kulturu.
+349|Zaštitna oprema je neophodna tokom pripreme i primene hemijskih sredstava za zaštitu bilja.
+350|Evidencija tretmana treba da sadrži datum, preparat, dozu, tretiranu površinu i razlog primene.
+351|Proizvodnja rasada u kontrolisanim uslovima omogućava raniji početak vegetacije i ujednačeniji razvoj mladih biljaka.
+352|Temperatura supstrata ima veliki uticaj na brzinu klijanja semena i pojavu prvih mladih biljaka.
+353|Nedovoljno svetlosti može izazvati izduživanje rasada i formiranje tankih, slabih stabljika.
+354|Dodatno osvetljenje može biti korisno tokom zimskih meseci kada je prirodno trajanje dana kratko.
+355|Kaljenje rasada podrazumeva postepeno izlaganje nižoj temperaturi, vetru i jačem sunčevom zračenju.
+356|Rasad paradajza treba presađivati kada razvije dovoljno snažan korenov sistem i nekoliko pravih listova.
+357|Prilikom sadnje paprike važno je izbegavati hladno zemljište jer ono može usporiti ukorenjavanje biljaka.
+358|Paradajz u plasteniku zahteva redovno vezivanje, zakidanje zaperaka i praćenje zdravstvenog stanja biljaka.
+359|Kod indeterminantnih sorti paradajza glavno stablo nastavlja da raste tokom cele vegetacione sezone.
+360|Determinantne sorte paradajza imaju ograničen porast i uglavnom formiraju kompaktniju biljku.
+361|Oplodnja cvetova paradajza može biti slabija kada su temperature u plasteniku previsoke ili preniske.
+362|Ventilacijom plastenika regulišu se temperatura, relativna vlažnost i koncentracija gasova u vazduhu.
+363|Sistem senčenja može smanjiti pregrevanje plastenika tokom perioda veoma visokih letnjih temperatura.
+364|Navodnjavanje u zaštićenom prostoru najčešće se kombinuje sa sistemom kap po kap i kontrolisanom prihranom.
+365|Fertirigacija omogućava istovremeno dodavanje vode i rastvorenih hranljivih elemenata direktno kroz sistem za navodnjavanje.
+366|Električna provodljivost hranljivog rastvora pokazuje približnu koncentraciju rastvorenih mineralnih soli u vodi.
+367|Previsoka električna provodljivost može izazvati osmotski stres i otežati biljci usvajanje vode.
+368|pH hranljivog rastvora utiče na dostupnost pojedinih makroelemenata i mikroelemenata biljnom korenu.
+369|Kalcijum je važan za pravilno formiranje ćelijskih zidova i kvalitet mladih biljnih tkiva.
+370|Nedostatak kalcijuma kod paradajza može se manifestovati pojavom vršne truleži na plodovima.
+371|Nedostatak gvožđa često izaziva hlorozu mladih listova, dok nervatura može ostati izraženije zelena.
+372|Magnezijum predstavlja sastavni deo hlorofila i značajan je za normalno odvijanje procesa fotosinteze.
+373|Mikroelementi su biljkama potrebni u malim količinama, ali njihova uloga u metabolizmu može biti veoma značajna.
+374|Pravilna ishrana rasada omogućava razvoj kompaktnijih biljaka sa snažnim korenom i zdravom lisnom masom.
+375|Preterana prihrana azotom može izazvati previše bujan vegetativni rast i smanjenu otpornost biljaka.
+376|Nakon berbe poljoprivredni proizvodi nastavljaju fiziološke procese, pa uslovi skladištenja značajno utiču na njihov kvalitet.
+377|Hlađenje sveže ubranog voća i povrća usporava disanje, gubitak vode i razvoj određenih mikroorganizama.
+378|Relativna vlažnost u skladištu treba da bude prilagođena vrsti proizvoda kako bi se smanjio gubitak mase.
+379|Kontrolisana atmosfera u hladnjačama omogućava promenu koncentracije kiseonika i ugljen-dioksida tokom skladištenja.
+380|Mehanička oštećenja nastala tokom berbe mogu ubrzati propadanje plodova i povećati mogućnost pojave truleži.
+381|Sortiranje proizvoda podrazumeva razvrstavanje prema veličini, boji, kvalitetu i prisustvu vidljivih oštećenja.
+382|Ambalaža treba da zaštiti proizvod tokom transporta, ali i da omogući odgovarajuću ventilaciju kada je potrebna.
+383|Hladni lanac podrazumeva održavanje odgovarajuće temperature od trenutka berbe do krajnjeg potrošača.
+384|Silaža nastaje fermentacijom sveže biljne mase u uslovima bez prisustva dovoljne količine kiseonika.
+385|Kvalitet silaže zavisi od vrste biljke, sadržaja suve materije, sabijanja i pravilnog zatvaranja silosa.
+386|Seno mora biti dovoljno osušeno pre skladištenja kako bi se smanjio rizik od kvarenja i razvoja plesni.
+387|Lucerka predstavlja kvalitetnu krmnu biljku sa visokim sadržajem proteina i koristi se u ishrani različitih domaćih životinja.
+388|Obrok muznih krava treba da bude uravnotežen prema njihovoj proizvodnji mleka, telesnoj masi i fazi laktacije.
+389|Kvalitet vode za napajanje životinja može imati direktan uticaj na zdravlje, unos hrane i proizvodne rezultate.
+390|Higijena objekata i opreme smanjuje rizik od širenja zaraznih bolesti među životinjama na farmi.
+391|Dobrobit životinja podrazumeva odgovarajuću ishranu, smeštaj, zdravstvenu zaštitu i mogućnost normalnog ponašanja.
+392|Troškovi semena, đubriva, goriva i zaštitnih sredstava značajno utiču na ekonomsku računicu poljoprivredne proizvodnje.
+393|Bruto marža predstavlja razliku između vrednosti ostvarene proizvodnje i određenih varijabilnih troškova proizvodnje.
+394|Produktivnost se može povećati boljom organizacijom rada, pravilnim korišćenjem mehanizacije i preciznim planiranjem resursa.
+395|Cena poljoprivrednog proizvoda može značajno varirati u zavisnosti od sezone, ponude, potražnje i kvaliteta robe.
+396|Direktna prodaja omogućava proizvođaču da uspostavi neposredan kontakt sa kupcem i potencijalno ostvari veću zaradu.
+397|Sertifikacija može biti važna kada proizvođač želi da dokaže poreklo, način proizvodnje ili poseban kvalitet proizvoda.
+398|Organska proizvodnja zahteva poštovanje posebnih pravila o đubrenju, zaštiti bilja i vođenju proizvodne dokumentacije.
+399|Digitalne evidencije mogu olakšati praćenje troškova, prinosa, tretmana i drugih važnih podataka sa gazdinstva.
+400|Uspešno poljoprivredno gazdinstvo zahteva kombinovanje stručnog znanja, dobre organizacije, tehnologije i pravilnog ekonomskog planiranja.
+401|Prilikom izbora sorte jabuke treba razmotriti vreme sazrevanja, otpornost na bolesti, kvalitet ploda i mogućnost njegovog skladištenja.
+402|Ajdared daje krupne plodove crvene boje i dugo je bio jedna od najzastupljenijih sorti jabuke u domaćim voćnjacima.
+403|Zlatni delišes formira slatke žute plodove, ali za kvalitetnu proizvodnju zahteva odgovarajuću rezidbu i dobro osvetljenu krošnju.
+404|Greni Smit prepoznatljiv je po zelenoj boji pokožice, izraženijoj kiselosti i relativno kasnom vremenu sazrevanja plodova.
+405|Gala sazreva ranije od mnogih zimskih sorti jabuke i cenjena je zbog slatkog ukusa i atraktivne boje ploda.
+406|Viljamovka je poznata sorta kruške čiji se aromatični plodovi koriste za svežu potrošnju i različite oblike prerade.
+407|Santa Marija je letnja sorta kruške koja formira krupne plodove i bere se znatno ranije od kasnih zimskih sorti.
+408|Stenlej je veoma rasprostranjena sorta šljive čiji se plodovi mogu koristiti za svežu potrošnju, sušenje i preradu.
+409|Čačanska lepotica sazreva tokom leta i poznata je po kvalitetnim plodovima pogodnim za svežu potrošnju.
+410|Oblačinska višnja značajna je za preradu zbog karakterističnog kvaliteta ploda i tradicionalno se gaji u mnogim delovima Srbije.
+411|Izbor podloge može značajno promeniti konačnu veličinu stabla, početak rodnosti i zahteve voćke prema sistemu naslona.
+412|Podloga M devet kod jabuke ograničava bujnost stabla i često se koristi u intenzivnim zasadima velike gustine.
+413|Slabobujne voćke imaju manji korenov sistem, pa su redovno navodnjavanje i stabilna potpora posebno značajni tokom proizvodnje.
+414|Pre sadnje voćnjaka potrebno je odrediti pravac redova kako bi stabla tokom dana što ravnomernije koristila raspoloživu svetlost.
+415|Razmak između redova mora omogućiti bezbedan prolazak traktora, prskalice, platforme i druge mehanizacije koja će se koristiti.
+416|Nakon sadnje mladog stabla bira se odgovarajući uzgojni oblik i postepeno formiraju osnovne grane buduće krošnje.
+417|Centralna provodnica predstavlja glavni uspravni deo stabla oko kojeg se kod pojedinih uzgojnih sistema raspoređuju rodne grane.
+418|Vodopije su snažni uspravni mladari koji mogu nepotrebno zgušnjavati krošnju i trošiti veliku količinu hranljivih materija.
+419|Rezidbom ne treba samo smanjivati veličinu stabla, već pravilno rasporediti rodno drvo i omogućiti bolje osvetljenje krošnje.
+420|Dobro osvetljeni plodovi pojedinih sorti razvijaju intenzivniju dopunsku boju i mogu imati veću tržišnu vrednost.
+421|Prstenovanje i povijanje grana predstavljaju posebne pomotehničke postupke kojima se može uticati na rast i formiranje rodnih pupoljaka.
+422|Pomotehnika obuhvata različite postupke kojima proizvođač reguliše rast, oblik krošnje, rodnost i kvalitet plodova voćaka.
+423|Prilikom kupovine voćne sadnice potrebno je proveriti deklaraciju kako bi se potvrdili sorta, podloga i poreklo sadnog materijala.
+424|Sadnice sa dobro razvijenim korenovim sistemom obično se lakše primaju nakon sadnje i brže nastavljaju vegetativni razvoj.
+425|Novi voćnjak predstavlja višegodišnju investiciju, zbog čega greške u izboru parcele, sorte ili razmaka kasnije mogu biti veoma skupe.
+426|Pre podizanja vinograda potrebno je analizirati ekspoziciju terena, zemljište, mogućnost pojave mraza i dostupnost vode za navodnjavanje.
+427|Južne ekspozicije dobijaju više sunčevog zračenja, ali njihova pogodnost zavisi od klime, sorte i karakteristika konkretnog položaja.
+428|Sorte vinove loze razlikuju se prema vremenu sazrevanja, nameni grožđa, otpornosti i kvalitetu koji mogu ostvariti.
+429|Kardinal je stona sorta grožđa poznata po krupnim bobicama i atraktivnom izgledu grozdova namenjenih svežoj potrošnji.
+430|Muskat Hamburg ima karakterističnu aromu i tamne bobice, zbog čega je prepoznatljiv među stonim sortama vinove loze.
+431|Prokupac je autohtona srpska sorta vinove loze koja se tradicionalno koristi za proizvodnju crvenih i roze vina.
+432|Tamjanika je aromatična sorta čije grožđe ima izražen miris i koristi se za proizvodnju karakterističnih vina.
+433|Koren vinove loze može prodreti duboko u zemljište ako struktura profila i dostupnost vode omogućavaju njegov nesmetan razvoj.
+434|Naslon u vinogradu sastoji se od stubova i žice koji omogućavaju pravilno raspoređivanje i vezivanje lastara tokom vegetacije.
+435|Rezidbom na zrelo određuje se broj okaca koji će ostati na čokotu i uticati na opterećenje tokom naredne vegetacije.
+436|Luk predstavlja duži deo jednogodišnjeg lastara na kojem se ostavlja veći broj okaca za formiranje budućih rodnih mladara.
+437|Kondir je kraći orezani deo lastara sa manjim brojem okaca i koristi se u različitim sistemima rezidbe vinove loze.
+438|Lačenje podrazumeva uklanjanje nepotrebnih mladara kako bi preostali delovi čokota imali više prostora, svetlosti i hranljivih materija.
+439|Zalamanjem vrhova može se ograničiti prekomeran rast lastara i olakšati održavanje pravilnog oblika reda u vinogradu.
+440|Defolijacija podrazumeva uklanjanje određenog broja listova u zoni grozdova radi poboljšanja osvetljenosti i cirkulacije vazduha.
+441|Preterano uklanjanje listova može izložiti grozdove jakom sunčevom zračenju i povećati rizik od pojave ožegotina na bobicama.
+442|Šarka predstavlja početak sazrevanja grožđa kada bobice omekšavaju, menjaju boju i počinju intenzivnije da akumuliraju šećer.
+443|Refraktometar omogućava brzo određivanje približnog sadržaja rastvorljivih materija u soku i često se koristi tokom praćenja sazrevanja.
+444|Tehnološka zrelost grožđa određuje se prema njegovoj nameni i ne mora uvek potpuno odgovarati fiziološkoj zrelosti bobica.
+445|Ručna berba omogućava pažljiviju selekciju grozdova, dok mehanizovana berba može značajno povećati brzinu rada na velikim površinama.
+446|Nakon berbe vinsko grožđe treba što pre transportovati do mesta prerade kako bi se ograničile neželjene promene kvaliteta sirovine.
+447|Prinos po čokotu nije jedini pokazatelj uspeha, jer proizvođač mora uzeti u obzir i zdravstveno stanje i kvalitet grožđa.
+448|Preveliko opterećenje čokota rodom može usporiti sazrevanje grožđa i negativno uticati na sadržaj šećera i druge parametre kvaliteta.
+449|Navodnjavanje vinograda treba prilagoditi fazi razvoja i stanju zemljišta kako prevelika količina vode ne bi podstakla nepotrebnu bujnost.
+450|Uspešna vinogradarska proizvodnja zahteva usklađivanje sorte, položaja, rezidbe, zaštite, ishrane i trenutnih klimatskih uslova.
+451|Optimalan trenutak berbe zavisi od biljne vrste, sorte, namene proizvoda i udaljenosti tržišta na koje će roba biti transportovana.
+452|Plod namenjen neposrednoj prodaji može se brati u drugačijem stepenu zrelosti od proizvoda predviđenog za dugotrajno skladištenje.
+453|Čvrstina ploda predstavlja jedan od pokazatelja zrelosti i može se objektivnije procenjivati pomoću odgovarajućeg mernog instrumenta.
+454|Penetrometar se koristi za merenje čvrstine pojedinih vrsta voća i može pomoći pri određivanju optimalnog termina berbe.
+455|Plodove tokom berbe treba pažljivo spuštati u ambalažu kako bi se izbegli udarci, nagnječenja i druga mehanička oštećenja.
+456|Predhlađenje podrazumeva brzo uklanjanje toplote iz sveže ubranog proizvoda pre njegovog skladištenja ili daljeg transporta.
+457|Brzo snižavanje temperature može usporiti respiraciju proizvoda i produžiti period tokom kojeg voće i povrće zadržavaju kvalitet.
+458|Respiracija se nastavlja i nakon berbe, pri čemu proizvod troši rezervne materije i postepeno prolazi kroz proces starenja.
+459|Intenzitet disanja biljnih proizvoda uglavnom raste sa povećanjem temperature, zbog čega je pravilno hlađenje veoma značajno.
+460|Etilen je biljni hormon koji kod određenih vrsta voća ubrzava sazrevanje i može uticati na proizvode koji se čuvaju u blizini.
+461|Jabuke tokom skladištenja proizvode etilen, pa uslovi u komori moraju biti prilagođeni planiranom periodu čuvanja plodova.
+462|Kontrolisana atmosfera smanjuje koncentraciju kiseonika i reguliše ugljen-dioksid kako bi se usporili metabolički procesi uskladištenog voća.
+463|Temperatura u hladnjači mora biti dovoljno stabilna jer česte promene mogu negativno uticati na kvalitet uskladištenih proizvoda.
+464|Gubitak vode tokom skladištenja dovodi do smanjenja mase, smežuravanja površine i gubitka tržišne vrednosti svežeg proizvoda.
+465|Visoka relativna vlažnost smanjuje gubitak vode, ali kod nekih proizvoda može povećati rizik od razvoja mikroorganizama.
+466|Sortiranjem se uklanjaju oštećeni i neodgovarajući plodovi kako ne bi smanjivali kvalitet čitave partije tokom skladištenja.
+467|Kalibriranje podrazumeva razvrstavanje plodova prema dimenzijama ili masi radi dobijanja ujednačenijih tržišnih kategorija proizvoda.
+468|Ambalaža mora biti dovoljno čvrsta da zaštiti proizvod, ali ne sme izazivati pritisak i oštećenje osetljivih plodova.
+469|Tokom transporta treba izbegavati visoke temperature, snažne vibracije i grubo rukovanje ambalažom sa svežim poljoprivrednim proizvodima.
+470|Sledljivost omogućava praćenje proizvoda od mesta proizvodnje preko pakovanja i distribucije do njegovog krajnjeg tržišta.
+471|Broj proizvodne partije omogućava lakše utvrđivanje porekla robe ako se naknadno pojavi problem sa kvalitetom ili bezbednošću.
+472|Sušenje smanjuje sadržaj vode u proizvodu i na taj način može značajno produžiti njegovu stabilnost tokom čuvanja.
+473|Zamrzavanje usporava veliki broj procesa kvarenja, ali način zamrzavanja i odmrzavanja može uticati na strukturu proizvoda.
+474|Prerada omogućava korišćenje poljoprivrednih proizvoda za proizvodnju sokova, džemova, kompota, sušenog voća i drugih proizvoda.
+475|Kvalitet nakon berbe zavisi od celog proizvodnog lanca, jer se greške nastale u voćnjaku često ne mogu ispraviti u hladnjači.
+476|Kupac traži zimzelenu biljku za sunčani deo dvorišta koja neće zahtevati često zalivanje i može da podnese niske zimske temperature.
+477|Za formiranje guste žive ograde prvo treba izmeriti ukupnu dužinu prostora, a zatim izabrati vrstu i odgovarajući razmak između sadnica.
+478|Ako želite ogradu koja će se relativno brzo zatvoriti, možemo razmotriti brže rastuće vrste uz obavezno redovno orezivanje.
+479|Za manje dvorište nije preporučljivo birati drvo koje razvija veoma široku krošnju i snažan korenov sistem blizu objekta.
+480|Kupac želi dekorativno drvo koje ne raste previše visoko, pravi umerenu hladovinu i može da se sadi pored dvorišne staze.
+481|Ako je terasa tokom većeg dela dana izložena direktnom suncu, treba birati cvetnice koje dobro podnose visoke temperature.
+482|Za balkon u polusenci možemo preporučiti vrste kojima nije potrebno celodnevno direktno sunce da bi pravilno rasle i cvetale.
+483|Biljka u maloj saksiji tokom leta može zahtevati svakodnevnu proveru vlage jer se ograničena količina supstrata veoma brzo isušuje.
+484|Kupac kaže da mu se prethodna hortenzija osušila, pa treba proveriti gde je bila posađena i koliko često je zalivana.
+485|Ako tuja počinje da menja boju, potrebno je pregledati unutrašnjost krošnje, proveriti vlažnost zemljišta i potražiti eventualne simptome bolesti.
+486|Smeđi vrhovi četina ne moraju uvek označavati bolest, jer ih mogu izazvati suša, mraz, oštećen koren ili drugi stresni uslovi.
+487|Preporuka za biljku zavisi od toga da li kupac želi zimzelenu vrstu, cvetnicu, ukrasno drvo ili biljku za pokrivanje zemljišta.
+488|Za kamenjar treba izabrati niže biljke koje dobro podnose sunce i zemljište iz kojeg se višak vode veoma brzo odvodi.
+489|Kupac želi mirisne biljke pored prostora za sedenje, pa možemo kombinovati lavandu, ruzmarin, timijan i druge aromatične vrste.
+490|Ako želite cvetanje tokom cele sezone, potrebno je kombinovati više biljnih vrsta čiji se glavni periodi cvetanja međusobno dopunjuju.
+491|Sadnicu nakon kupovine ne treba ostavljati nekoliko dana na jakom suncu bez zalivanja, posebno ako se nalazi u malom kontejneru.
+492|Prilikom transporta viših sadnica potrebno je zaštititi grane od lomljenja i sprečiti snažno isušivanje korenove bale tokom putovanja.
+493|Kupac želi da posadi ruže uz ogradu, pa prvo treba proveriti da li taj deo dvorišta dobija dovoljno direktne sunčeve svetlosti.
+494|Za početnika je korisno preporučiti otpornije biljke koje dobro podnose manje greške u zalivanju, orezivanju i redovnom održavanju.
+495|Ako se biljka sadi tokom toplog perioda, prvih nekoliko nedelja treba pažljivije pratiti vlagu dok se koren ne proširi u okolno zemljište.
+496|Kod sadnje većeg broja biljaka korisno je unapred obeležiti njihove položaje kako bi razmak i pravac sadnje ostali ujednačeni.
+497|Kupac traži petnaest sadnica za deo dvorišta u senci, ali želi da biljke ostanu dekorativne tokom što većeg dela godine.
+498|Pre konačne kupovine treba objasniti koliko će biljka približno porasti za nekoliko godina, jer trenutna veličina sadnice može biti varljiva.
+499|Dobar savet kupcu podrazumeva da se najpre utvrde uslovi u njegovom dvorištu, a tek zatim preporuči odgovarajuća biljna vrsta.
+500|Pri izboru ukrasnih biljaka potrebno je uzeti u obzir osunčanost, raspoloživi prostor, kvalitet zemljišta i željeni izgled dvorišta.
+501|Zimzelene biljke zadržavaju lišće ili četine tokom zime i zato predstavljaju važan element uređenja zelenih površina.
+502|Četinari se razlikuju prema brzini rasta, konačnoj visini, obliku krošnje i zahtevima prema zemljištu i svetlosti.
+503|Tuja Brabant raste brže od tuje Smaragd i često se koristi za formiranje visoke guste žive ograde.
+504|Leylandii čempres ima veoma brz porast, pa zahteva redovno orezivanje kako bi ograda zadržala željeni oblik.
+505|Patuljasti četinari pogodni su za male vrtove, kamenjare, saksije i kombinovanje sa drugim ukrasnim biljkama.
+506|Horizontalne kleke šire se uz površinu zemlje i često se koriste kao zimzeleni pokrivači tla.
+507|Ukrasne trave unose različitu teksturu i kretanje u vrt, posebno tokom letnjih i jesenjih meseci.
+508|Pampas trava razvija visoke dekorativne metlice, ali joj je potrebno dovoljno prostora za nesmetan razvoj.
+509|Hortenzije menjaju izgled tokom sezone, a boja pojedinih sorti može zavisiti i od reakcije zemljišta.
+510|Rododendron zahteva kiselo, humusno i dobro drenirano zemljište, kao i zaštitu od jakog podnevnog sunca.
+511|Azaleje najbolje izgledaju kada se sade u grupama na mestima sa blagom senkom i dovoljno organske materije.
+512|Magnolija se sadi na zaštićenom položaju gde ima dovoljno prostora da razvije karakterističnu široku krošnju.
+513|Japanski javor najbolje uspeva na mestu zaštićenom od jakog vetra i preteranog letnjeg sunca.
+514|Ukrasna trešnja se posebno ceni zbog obilnog prolećnog cvetanja i dekorativnog izgleda krošnje.
+515|Kuglasti bagrem prirodno formira zaobljenu krošnju i često se sadi uz prilaze, staze i manje parking površine.
+516|Živa ograda treba da se orezuje redovno kako bi ostala gusta od donjeg dela biljke do samog vrha.
+517|Razmak sadnje kod žive ograde zavisi od vrste biljke, njene bujnosti i željene brzine zatvaranja prostora.
+518|Dekorativni kamen i malč mogu smanjiti pojavu korova i istovremeno poboljšati izgled uređene zelene površine.
+519|Geotekstil se ponekad postavlja ispod dekorativnog materijala kako bi se ograničilo probijanje neželjenih korovskih biljaka.
+520|Kamenjar se formira kombinovanjem kamenja i biljaka koje dobro podnose sunce, sušu i plitak sloj zemljišta.
+521|Perene su višegodišnje zeljaste biljke koje ponovo razvijaju nadzemne delove tokom svake nove vegetacione sezone.
+522|Jednogodišnje cvetnice završavaju životni ciklus tokom jedne sezone i obično se koriste za intenzivno sezonsko cvetanje.
+523|Dvogodišnje biljke tokom prve godine uglavnom razvijaju vegetativne organe, dok naredne godine formiraju cvet i seme.
+524|Dobro planirana zelena površina kombinuje biljke različitih visina, boja, oblika i perioda cvetanja tokom godine.
+525|Izbor sorte voćke treba prilagoditi lokalnoj klimi, nameni ploda, otpornosti na bolesti i mogućnostima plasmana proizvoda.
+526|Podloga utiče na bujnost stabla, početak rodnosti, otpornost na zemljišne uslove i konačnu veličinu voćke.
+527|Slabobujne podloge kod jabuke omogućavaju intenzivne zasade sa većim brojem stabala po jedinici površine.
+528|Bujne podloge razvijaju snažniji korenov sistem, ali zahtevaju veći razmak između pojedinačnih stabala u voćnjaku.
+529|Kalemljenje na pupoljak predstavlja čestu metodu proizvodnje kvalitetnog sadnog materijala u savremenim voćnim rasadnicima.
+530|Mesto kalemljenja treba da ostane iznad nivoa zemljišta kako plemka ne bi razvila sopstveni koren.
+531|Sertifikovane sadnice imaju dokumentaciju kojom se potvrđuju sorta, zdravstveno stanje i poreklo sadnog materijala.
+532|Dvogodišnja sadnica može imati razvijenije bočne grane, ali kvalitet korena je važniji od same visine biljke.
+533|Jabuke se razlikuju prema vremenu sazrevanja, boji pokožice, ukusu, čvrstini mesa i sposobnosti dugog čuvanja.
+534|Sorte kruške imaju različite zahteve prema oprašivačima, pa je potrebno pažljivo planirati sortiment prilikom podizanja zasada.
+535|Samooplodne sorte mogu formirati plod sopstvenim polenom, ali dodatni oprašivači ponekad povećavaju konačan prinos.
+536|Stranooplodne sorte zahtevaju prisustvo kompatibilne sorte koja cveta približno u istom periodu tokom proleća.
+537|Kod trešnje izbor podloge značajno utiče na bujnost stabla i gustinu sadnje u savremenom zasadu.
+538|Višnja se može koristiti za svežu potrošnju, zamrzavanje, preradu u sokove, kompote i druge prehrambene proizvode.
+539|Kajsija je osetljiva na pozne mrazeve jer njeno cvetanje često počinje veoma rano tokom proleća.
+540|Breskva zahteva redovnu rezidbu jer najveći deo roda formira na jednogodišnjim rodnim grančicama.
+541|Šljiva ima veliki privredni značaj i koristi se za svežu potrošnju, sušenje i različite oblike prerade.
+542|Orah zahteva duboko zemljište i dovoljno prostora jer odraslo stablo može razviti veoma veliku i široku krošnju.
+543|Lešnik se često gaji kao žbun sa više izdanaka, ali može biti formiran i u obliku manjeg stabla.
+544|Borovnica zahteva veoma kiselu reakciju supstrata, zbog čega se uslovi sadnje često posebno prilagođavaju njenim potrebama.
+545|Malina formira izdanke koji uglavnom donose rod naredne godine, nakon čega se uklanjaju iz proizvodnog zasada.
+546|Kupina bez trnja olakšava berbu i održavanje zasada, zbog čega je popularna među manjim proizvođačima.
+547|Jagoda se može gajiti na otvorenom polju, ispod niskih tunela ili u različitim sistemima zaštićenog prostora.
+548|Malč folija kod jagode ograničava razvoj korova, čuva vlagu i sprečava direktan kontakt plodova sa zemljištem.
+549|Kvalitetna voćna sadnica treba da bude zdrava, pravilno razvijena, bez mehaničkih oštećenja i sa dobro formiranim korenom.
+550|Predsetvena priprema treba da formira ravnomeran setveni sloj koji omogućava dobar kontakt semena sa vlažnim zemljištem.
+551|Klijavost semena predstavlja procenat semena sposobnog da u odgovarajućim uslovima formira normalno razvijenu mladu biljku.
+552|Energija klijanja pokazuje koliko brzo i ujednačeno seme može da nikne tokom početnog perioda laboratorijskog ispitivanja.
+553|Masa hiljadu semena koristi se kao važan pokazatelj pri izračunavanju potrebne količine semena za setvu.
+554|Dormantnost semena predstavlja privremeno stanje u kojem seme ne klija iako postoje naizgled povoljni spoljašnji uslovi.
+555|Stratifikacija podrazumeva kontrolisano izlaganje semena određenoj temperaturi i vlazi radi prekidanja perioda mirovanja.
+556|Skarifikacija oštećuje tvrdu semenjaču i omogućava lakši prodor vode do unutrašnjih delova semena.
+557|Ozime sorte se seju tokom jeseni, prolaze kroz zimski period i nastavljaju intenzivan razvoj narednog proleća.
+558|Jare sorte se najčešće seju tokom proleća i završavaju svoj vegetacioni ciklus u istoj proizvodnoj godini.
+559|Jarovizacija predstavlja delovanje niskih temperatura koje kod pojedinih biljaka omogućava kasnije pravilno formiranje generativnih organa.
+560|Mineralizacijom organske materije oslobađaju se hranljivi elementi koje biljke mogu da usvoje preko svog korenovog sistema.
+561|Kapacitet zemljišta za vodu pokazuje koliko vlage određeni tip zemljišta može zadržati nakon oticanja viška vode.
+562|Poljski vodni kapacitet predstavlja količinu vode koja ostaje u zemljištu nakon što se višak gravitacione vode ocedi.
+563|Tačka venuća označava nivo vlažnosti pri kojem biljka više ne može da usvoji dovoljnu količinu vode iz zemljišta.
+564|Kapilarna voda predstavlja najvažniji deo zemljišne vlage koji je u najvećoj meri dostupan korenovom sistemu biljaka.
+565|Zemljišni agregati utiču na poroznost, kretanje vode, količinu vazduha i mogućnost razvoja korena kroz zemljišni profil.
+566|Sabijanje zemljišta smanjuje njegovu poroznost i može ograničiti prodor korena u dublje slojeve profila.
+567|Organska materija predstavlja važan izvor hranljivih elemenata i doprinosi stvaranju stabilne strukture poljoprivrednog zemljišta.
+568|Černozem je veoma plodno zemljište sa visokim sadržajem humusa i povoljnim fizičkim osobinama za ratarsku proizvodnju.
+569|Aluvijalna zemljišta nastaju taloženjem rečnog materijala i često imaju povoljne karakteristike za intenzivnu poljoprivrednu proizvodnju.
+570|Kisela zemljišta mogu zahtevati kalcifikaciju kako bi se povećala pH vrednost i poboljšali uslovi za određene kulture.
+571|Kalcifikacija podrazumeva unošenje materijala bogatih kalcijumom radi smanjenja preterane kiselosti poljoprivrednog zemljišta.
+572|Zasoljenost zemljišta može otežati usvajanje vode i negativno uticati na rast osetljivih poljoprivrednih kultura.
+573|Melioracija obuhvata različite postupke kojima se trajno poboljšavaju nepovoljna svojstva zemljišta ili vodni režim parcele.
+574|Pedološka analiza omogućava detaljnije sagledavanje fizičkih i hemijskih osobina zemljišta na određenoj lokaciji.
+575|Potrebe useva za vodom menjaju se tokom vegetacije i najčešće su najveće u određenim kritičnim fazama razvoja.
+576|Deficit navodnjavanje podrazumeva kontrolisano dodavanje manje vode od pune potrebe useva radi efikasnijeg korišćenja resursa.
+577|Orošavanje raspoređuje vodu preko biljaka i površine zemljišta pomoću sistema rasprskivača postavljenih na odgovarajućem rastojanju.
+578|Mikrorasprskivači se koriste u voćnjacima, rasadnicima i drugim sistemima gde je potrebno lokalizovano dodavanje vode.
+579|Kapljači različitog protoka omogućavaju prilagođavanje količine vode potrebama biljke i karakteristikama zemljišta.
+580|Začepljenje kapljača može biti posledica prisustva čestica, taloženja minerala ili razvoja mikroorganizama u sistemu.
+581|Filtriranje vode je važan deo sistema kap po kap jer smanjuje rizik od začepljenja cevi i emitera.
+582|Pritisak vode treba održavati u odgovarajućem opsegu kako bi raspodela vode kroz sistem ostala dovoljno ravnomerna.
+583|Koeficijent uniformnosti pokazuje koliko ravnomerno sistem za navodnjavanje raspoređuje vodu između različitih delova parcele.
+584|Navodnjavanje tokom najtoplijeg dela dana može povećati gubitke vode usled intenzivnijeg isparavanja sa površine.
+585|Sušni stres može dovesti do zatvaranja stoma, smanjenja fotosinteze i usporavanja ukupnog porasta biljke.
+586|Stome su sitni otvori na površini lista preko kojih biljka reguliše razmenu gasova i gubitak vode.
+587|Transpiracijom biljka gubi vodu preko listova, dok koren istovremeno usvaja novu vodu iz zemljišta.
+588|Potencijalna evapotranspiracija zavisi od temperature, sunčevog zračenja, vlažnosti vazduha i brzine vetra.
+589|Agrometeorološka stanica može automatski meriti temperaturu, vlažnost, padavine, brzinu vetra i druge važne parametre.
+590|Minimalna temperatura vazduha posebno je značajna tokom proleća kada mladi biljni organi mogu stradati od mraza.
+591|Maksimalne dnevne temperature mogu tokom leta izazvati ožegotine na listovima i plodovima osetljivih biljnih vrsta.
+592|Toplotni stres negativno utiče na fotosintezu, oplodnju, formiranje plodova i druge važne fiziološke procese biljaka.
+593|Suma aktivnih temperatura koristi se za procenu brzine razvoja pojedinih kultura tokom vegetacionog perioda.
+594|Mikroklima u plasteniku može se značajno razlikovati od meteoroloških uslova izmerenih na otvorenom prostoru.
+595|Mreže za zasenjivanje smanjuju intenzitet sunčevog zračenja i mogu ublažiti pregrevanje biljaka tokom leta.
+596|Ventilatori u zaštićenom prostoru mogu poboljšati cirkulaciju vazduha i smanjiti pojavu zona sa visokom vlagom.
+597|Navodnjavanje protiv mraza može zaštititi pojedine biljne organe korišćenjem toplote koja se oslobađa pri zamrzavanju vode.
+598|Protivgradni sistemi smanjuju rizik od direktnog oštećenja plodova, grana i lisne mase tokom jakih vremenskih nepogoda.
+599|Klimatske promene mogu menjati rokove setve, potrebe za vodom, rasprostranjenost štetočina i mogućnosti gajenja pojedinih kultura.
+600|Prilikom pojave neobičnih pega na listovima potrebno je prvo utvrditi da li je uzrok bolest, nedostatak hraniva, oštećenje od štetočina ili nepovoljni uslovi sredine.
+601|Simptomi biljnih bolesti mogu se razlikovati u zavisnosti od sorte, starosti biljke, vremenskih uslova i faze u kojoj je infekcija nastala.
+602|Laboratorijska analiza biljnog materijala može pomoći da se preciznije utvrdi uzročnik bolesti kada simptomi na terenu nisu dovoljno karakteristični.
+603|Gljivični patogeni često formiraju spore koje se vetrom ili kapljicama vode mogu preneti sa zaraženih na zdrave biljke.
+604|Bakterijske bolesti mogu se širiti zaraženim sadnim materijalom, vodom, insektima, alatima i direktnim kontaktom između biljnih organa.
+605|Biljni virusi se ne mogu suzbijati fungicidima ili insekticidima, pa je prevencija i kontrola njihovih prenosilaca veoma važna.
+606|Kada se primete prvi simptomi bolesti, korisno je označiti zahvaćene biljke i pratiti da li se problem širi na ostatak zasada.
+607|Uklanjanje teško zaraženih biljaka može smanjiti količinu patogena i sprečiti njegovo dalje širenje kroz proizvodni prostor.
+608|Alat za rezidbu treba dezinfikovati između osetljivih biljaka ako postoji sumnja na prisustvo zaraznog oboljenja u zasadu.
+609|Vlažno vreme i dugo zadržavanje vode na listovima stvaraju povoljne uslove za infekciju kod velikog broja gljivičnih bolesti.
+610|Dobro provetravanje krošnje omogućava brže sušenje listova posle kiše i može smanjiti rizik od razvoja pojedinih patogena.
+611|Preventivna zaštita ima najveći efekat kada se primeni pre pojave ozbiljne infekcije i u skladu sa prognoziranim rizikom od bolesti.
+612|Izbor preparata treba da bude zasnovan na registrovanoj nameni, biljnoj kulturi, ciljnom patogenu i preporučenom načinu primene.
+613|Karenca mora da se poštuje kako bi između poslednje primene sredstva i berbe protekao propisan minimalni vremenski period.
+614|Prečesta primena preparata sa istim mehanizmom delovanja povećava rizik da populacija patogena postane manje osetljiva na tretman.
+615|Rezistentnost se može usporiti rotacijom aktivnih materija i kombinovanjem hemijskih sa preventivnim i drugim merama zaštite.
+616|Fitotoksična reakcija može se ispoljiti kroz ožegotine, deformacije listova, usporen rast ili potpuno propadanje osetljivog biljnog tkiva.
+617|Pre tretiranja većeg broja ukrasnih biljaka korisno je proveriti da li izabrani preparat može izazvati neželjenu fitotoksičnu reakciju.
+618|Povoljni uslovi za razvoj bolesti ne znače automatski da će infekcija nastati, jer je potrebno i prisustvo odgovarajućeg patogena.
+619|Zdravstveno stanje sadnog materijala treba proveriti pre unošenja u plastenik kako bi se smanjio rizik od unošenja novih patogena.
+620|Plamenjača se obično razvija brže tokom vlažnih perioda, dok se pepelnica kod nekih biljaka može intenzivno razvijati i bez kiše.
+621|Monilija predstavlja značajan problem kod pojedinih koštičavih voćaka i može izazvati sušenje cvetova, grančica i truljenje plodova.
+622|Krastavost jabuke može zahvatiti listove i plodove, a intenzitet napada u velikoj meri zavisi od vremenskih uslova tokom proleća.
+623|Bakterijska plamenjača može izazvati naglo venuće mladih izdanaka, koji nakon infekcije često dobijaju karakterističan tamni izgled.
+624|Pravilna dijagnoza predstavlja osnovu zaštite bilja, jer slični simptomi mogu nastati zbog potpuno različitih uzroka i zahtevati različite mere.
+625|Prisustvo nekoliko insekata na biljci ne znači uvek da je tretiranje potrebno, jer odluka zavisi od brojnosti i očekivane štete.
+626|Ekonomski prag štetnosti pomaže proizvođaču da proceni kada je primena određene mere zaštite finansijski i agronomski opravdana.
+627|Lisne vaši se brzo razmnožavaju na mladim biljnim delovima i svojim ishranom mogu izazvati uvijanje i deformisanje listova.
+628|Medna rosa koju izlučuju pojedine štetočine može prekriti površinu lista i stvoriti pogodne uslove za razvoj gljiva čađavica.
+629|Tripsi su veoma sitni insekti koji mogu oštetiti cvetove i listove, a pojedine vrste prenose i opasne biljne viruse.
+630|Crveni pauk može formirati brojne kolonije na naličju lista, posebno tokom dugih perioda toplog i suvog vremena.
+631|Bela leptirasta vaš često se javlja u plastenicima gde visoke temperature omogućavaju brzo povećavanje njene populacije.
+632|Feromonske klopke mogu pomoći da se utvrdi početak leta i intenzitet pojave određenih štetnih leptira u voćnjaku.
+633|Lepljive ploče koriste se uglavnom za praćenje brojnosti sitnih letećih insekata, a ne kao jedina metoda njihove kontrole.
+634|Biološka kontrola zasniva se na korišćenju korisnih organizama koji se hrane štetočinama ili na drugi način ograničavaju njihovu populaciju.
+635|Bubamare su korisni predatori jer se njihove larve i odrasli insekti mogu hraniti velikim brojem lisnih vaši.
+636|Predatorske grinje koriste se u nekim sistemima zaštićene proizvodnje za kontrolu tripsa, crvenog pauka i drugih sitnih štetočina.
+637|Parazitoidi razvijaju deo svog životnog ciklusa u telu domaćina i na taj način mogu smanjivati brojnost štetnih insekata.
+638|Integrisana zaštita ne odbacuje hemijske preparate, već nastoji da ih koristi samo kada druge mere nisu dovoljne za kontrolu problema.
+639|Plodored, zdravo seme, otporne sorte i pravilna agrotehnika predstavljaju važan deo preventivnog pristupa zaštiti bilja.
+640|Korovi mogu biti domaćini pojedinim bolestima i štetočinama, pa njihovo suzbijanje može imati više koristi od smanjenja konkurencije.
+641|Ambroziju je važno ukloniti pre cvetanja i stvaranja semena kako bi se ograničilo njeno širenje na nove površine.
+642|Divlji sirak razvija snažan sistem rizoma, zbog čega njegovo dugoročno suzbijanje može zahtevati kombinovanje različitih mera.
+643|Mehanička obrada može efikasno smanjiti mlade korove, ali kod nekih višegodišnjih vrsta usitnjavanje korena može podstaći širenje.
+644|Selektivni herbicid treba da suzbije ciljane korove bez neprihvatljivog oštećenja poljoprivredne kulture u kojoj se primenjuje.
+645|Prilikom primene pesticida potrebno je pratiti brzinu vetra kako bi se smanjilo zanošenje kapljica na susedne površine i useve.
+646|Zaštitna maska, rukavice, odeća i druga propisana oprema smanjuju direktnu izloženost radnika sredstvima za zaštitu bilja.
+647|Ostatke rastvora nakon prskanja ne treba nekontrolisano ispuštati u kanale, vodotokove ili na površine gde mogu zagaditi okolinu.
+648|Praznu ambalažu od sredstava za zaštitu bilja potrebno je zbrinuti u skladu sa propisanim pravilima i preporukama proizvođača.
+649|Dobra praksa zaštite bilja istovremeno vodi računa o zdravlju useva, ekonomičnosti proizvodnje, bezbednosti ljudi i zaštiti životne sredine.
+650|Savremeni traktori imaju elektronske sisteme koji mogu pratiti broj obrtaja motora, potrošnju goriva, opterećenje i druge radne parametre.
+651|Pravilan izbor stepena prenosa omogućava motoru da radi u povoljnijem režimu i može smanjiti nepotrebnu potrošnju goriva.
+652|Dubina rada pluga mora biti približno jednaka kroz celu parcelu kako bi osnovna obrada zemljišta bila dovoljno ujednačena.
+653|Prevelika brzina tokom obrade može povećati potrošnju energije i smanjiti kvalitet rada priključne poljoprivredne mašine.
+654|Setvospremač treba da pripremi sitan površinski sloj, ali zemljište ne treba usitnjavati toliko da postane sklono stvaranju pokorice.
+655|Precizna sejalica mora pravilno izdvajati pojedinačna semena kako bi se postigao željeni razmak između biljaka u redu.
+656|Dupli prolazi sejalice stvaraju pregust sklop, dok preskoci ostavljaju prazna mesta i mogu smanjiti potencijalni prinos useva.
+657|Kalibracija rasipača đubriva omogućava proveru stvarne količine materijala koja se raspoređuje po jedinici površine tokom rada.
+658|Neujednačeno rasipanje mineralnog đubriva može dovesti do razlika u porastu i boji biljaka na različitim delovima parcele.
+659|Dizne prskalice treba redovno kontrolisati jer istrošena dizna može propuštati znatno veću količinu rastvora od predviđene.
+660|Satelitsko navođenje omogućava vozaču da održava preciznije pravce kretanja i smanjuje nepotrebno preklapanje susednih prohoda.
+661|RTK korekcija značajno povećava preciznost pozicioniranja i omogućava ponavljanje gotovo istih putanja tokom različitih radnih operacija.
+662|Automatsko isključivanje sekcija prskalice smanjuje preklapanje tretmana na mestima gde je deo površine već prethodno obrađen.
+663|Varijabilno đubrenje omogućava da različite zone parcele dobiju različitu količinu hraniva u skladu sa njihovim stvarnim potrebama.
+664|Mape zemljišta, prinosa i vegetacije mogu se kombinovati kako bi se bolje razumele prostorne razlike unutar jedne parcele.
+665|Multispektralne kamere mogu registrovati refleksiju koju ljudsko oko ne vidi i tako pružiti dodatne informacije o vegetaciji.
+666|Vegetacioni indeks može ukazati na određene razlike u usevu, ali sam po sebi ne određuje tačan uzrok uočenog problema.
+667|Dron može brzo pregledati teško dostupne delove parcele i pomoći proizvođaču da preciznije odredi gde treba izvršiti terensku proveru.
+668|Senzori na poljoprivrednim mašinama mogu automatski beležiti podatke o položaju, brzini, potrošnji i izvršenim radnim operacijama.
+669|Internet stvari omogućava povezivanje različitih senzora i uređaja kako bi se podaci sa gazdinstva prikupljali gotovo u realnom vremenu.
+670|Digitalna meteorološka stanica može automatski slati podatke o temperaturi, padavinama, vetru i relativnoj vlažnosti vazduha.
+671|Softver za upravljanje gazdinstvom može objediniti podatke o parcelama, radnim operacijama, utrošenom materijalu, troškovima i prinosima.
+672|Veštačka inteligencija može analizirati veliki broj poljoprivrednih podataka i pomoći pri otkrivanju obrazaca koji nisu odmah očigledni.
+673|Mašinsko učenje može se koristiti za procenu prinosa, klasifikaciju bolesti, prepoznavanje korova ili analizu snimaka poljoprivrednih parcela.
+674|Automatizacija ne zamenjuje agronomsko znanje, već omogućava proizvođaču da na osnovu većeg broja podataka donosi informisanije odluke.
+675|Na ovoj parceli imamo približno dva hektara kukuruza i planiramo prvo prihranjivanje čim vremenski uslovi dozvole ulazak mehanizacije u njivu.
+676|Prošle godine prosečan prinos pšenice bio je oko šest tona po hektaru, ali su rezultati značajno varirali između različitih parcela.
+677|Potrebno nam je približno dvesta sadnica tuje Smaragd visine između osamdeset centimetara i jednog metra za formiranje nove ograde.
+678|Kupac traži deset kuglastih javora, pet ukrasnih trešanja i oko trideset metara zimzelene žive ograde za uređenje dvorišta.
+679|Ove sadnice lavande nalaze se u saksijama zapremine tri litra i mogu odmah da se presade na sunčano mesto u bašti.
+680|Za ovaj deo dvorišta preporučio bih biljke koje dobro podnose jako sunce, povremenu sušu i visoke temperature tokom jula i avgusta.
+681|U severnom delu dvorišta sunce se pojavljuje samo nekoliko sati dnevno, pa su tu pogodnije biljke koje dobro podnose polusenku.
+682|Pre sadnje žive ograde treba izmeriti ukupnu dužinu prostora i zatim izračunati potreban broj sadnica prema izabranom razmaku.
+683|Ako se tuje sade na razmaku od približno šezdeset centimetara, za dvadeset metara ograde biće potrebno nešto više od trideset sadnica.
+684|Ova parcela nije zalivana skoro dve nedelje, a površinski sloj zemljišta je potpuno suv i pokazuje prve znake nedostatka vlage.
+685|Sistem kap po kap uključujemo rano ujutru, a trajanje navodnjavanja prilagođavamo temperaturi, fazi razvoja biljke i vlažnosti zemljišta.
+686|Meteorološka prognoza najavljuje temperaturu iznad trideset pet stepeni, pa ćemo povećati učestalost kontrole vlage u kontejnerskim sadnicama.
+687|Tokom prethodne noći temperatura se spustila dva stepena ispod nule i na mladim biljkama pojavila su se vidljiva oštećenja od mraza.
+688|Na jednom delu plastenika listovi paradajza počeli su da žute, pa prvo treba proveriti koren, vlažnost i stanje hranljivog rastvora.
+689|Na mladim izdancima primećene su brojne lisne vaši, ali pre tretmana treba proveriti njihovu brojnost i prisustvo korisnih predatora.
+690|Nakon nekoliko kišnih dana na listovima su se pojavile nepravilne pege, zbog čega je potrebno detaljnije pregledati čitav zasad.
+691|Kupac želi biljku visine oko jednog i po metra koja ostaje zelena tokom zime i može uspevati pored ograde.
+692|Za malu terasu preporučujemo kompaktne biljke koje mogu da rastu u većim saksijama i ne zahtevaju često ili komplikovano održavanje.
+693|Ako biljka treba da cveta tokom većeg dela leta, izbor vrste zavisi od količine sunca, dostupnog prostora i učestalosti zalivanja.
+694|Sadnice koje danas stignu iz transporta prvo treba pregledati, zaliti po potrebi i ostaviti kratko vreme da se prilagode uslovima rasadnika.
+695|Oštećene grane uklanjamo čistim i oštrim makazama, a rez pravimo tako da rana bude što manja i pravilnije formirana.
+696|Na ovoj njivi planirana je setva kukuruza sa razmakom redova od sedamdeset centimetara i unapred određenim brojem biljaka po hektaru.
+697|Rezervoar prskalice ima zapreminu šest stotina litara, pa pre tretiranja moramo izračunati potrebnu količinu vode i preparata za celu parcelu.
+698|Vlaga zrna prilikom žetve iznosila je oko šesnaest procenata, pa će pre dužeg skladištenja možda biti potrebno dodatno sušenje.
+699|U hladnjači se temperatura i relativna vlažnost neprekidno kontrolišu kako bi plodovi što duže zadržali kvalitet i tržišnu vrednost.
+700|Poljoprivredna proizvodnja zahteva svakodnevno donošenje odluka na osnovu stanja biljaka, vremenskih uslova, raspoloživih resursa i iskustva samog proizvođača.
+701|Prilikom planiranja proizvodnje pšenice potrebno je uzeti u obzir kvalitet zemljišta, izbor sorte, rok setve, količinu semena, planirano đubrenje i mogućnost pojave bolesti, jer svaki od ovih faktora može značajno uticati na konačan prinos i kvalitet zrna.
+702|Kukuruz tokom vegetacije prolazi kroz više razvojnih faza, a posebno je osetljiv na nedostatak vode u periodu metličenja, svilanja i oplodnje, zbog čega su vremenske prilike u tom delu sezone veoma važne za formiranje prinosa.
+703|Kod proizvodnje suncokreta veoma je važno pravilno odrediti gustinu sklopa, jer pregust usev može povećati konkurenciju između biljaka, dok suviše redak sklop ne koristi u potpunosti raspoloživi prostor, svetlost, vodu i hranljive materije.
+704|Soja ima sposobnost da uz pomoć simbiontskih bakterija vezuje atmosferski azot, ali uspešna nodulacija zavisi od prisustva odgovarajućih bakterija, temperature zemljišta, njegove kiselosti i drugih uslova koji utiču na razvoj korenovog sistema.
+705|Plodored u ratarskoj proizvodnji treba planirati nekoliko godina unapred kako bi se izbeglo često vraćanje iste kulture na istu parcelu, jer se time može povećati prisustvo određenih bolesti, štetočina i korovskih vrsta.
+706|Optimalan rok setve nije isti svake godine, pa poljoprivrednik treba da prati temperaturu zemljišta, količinu vlage, vremensku prognozu i stanje parcele kako bi setvu obavio u trenutku kada su uslovi najpovoljniji za brzo i ujednačeno nicanje.
+707|Dubina setve mora biti dovoljno velika da seme dođe u kontakt sa vlažnim zemljištem, ali ne toliko duboka da mlada biljka troši previše rezervne energije dok pokušava da izbije na površinu.
+708|Nakon nicanja useva potrebno je proceniti broj razvijenih biljaka po jedinici površine i proveriti da li postoje veće praznine, dupli sklopovi ili drugi problemi koji mogu ukazivati na loše podešavanje sejalice ili nepovoljne uslove tokom nicanja.
+709|Žetvu treba započeti kada je usev dostigao odgovarajuću zrelost, ali odluka zavisi i od sadržaja vlage u zrnu, vremenske prognoze, raspoloživosti kombajna i mogućnosti bezbednog skladištenja požnjevenog proizvoda.
+710|Posle žetve korisno je analizirati ostvareni prinos, troškove proizvodnje, potrošnju goriva i količinu upotrebljenog repromaterijala, jer ti podaci mogu pomoći da se naredne sezone donesu bolje odluke i unapredi ukupna ekonomičnost proizvodnje.
+711|Pre podizanja novog voćnjaka potrebno je uraditi analizu zemljišta, proveriti dostupnost vode za navodnjavanje, izabrati odgovarajuću sortu i podlogu, kao i odrediti razmak sadnje prema planiranom uzgojnom obliku i mehanizaciji koja će se koristiti.
+712|Kod mladih voćaka rezidba se koristi pre svega za formiranje pravilne krošnje, dok se kod odraslih stabala njenim intenzitetom pokušava uspostaviti ravnoteža između vegetativnog rasta, formiranja rodnih pupoljaka i količine plodova.
+713|Kasni prolećni mraz može u veoma kratkom periodu da uništi veliki deo cvetova ili tek formiranih plodova, pa proizvođači u ugroženim područjima koriste različite metode zaštite, uključujući orošavanje, zadimljavanje ili mešanje vazduha.
+714|Prilikom berbe jabuka potrebno je izbegavati bacanje i grubo rukovanje plodovima, jer čak i mala mehanička oštećenja mogu tokom skladištenja postati mesto razvoja truleži i značajno smanjiti tržišnu vrednost proizvoda.
+715|U intenzivnim zasadima jabuke često se koriste slabobujne podloge koje omogućavaju raniji početak rodnosti i gušću sadnju, ali takva stabla uglavnom zahtevaju sistem naslona, redovno navodnjavanje i precizniju ishranu biljaka.
+716|Kod kruške je veoma važno obezbediti odgovarajuće sorte oprašivače, jer mnoge sorte ne mogu dati stabilan prinos ako u blizini nema kompatibilne sorte koja cveta u približno isto vreme.
+717|Vinova loza tokom vegetacije razvija veliki broj zelenih mladara, pa se različitim merama zelene rezidbe regulišu osvetljenost i provetravanje zone grozdova, što može imati veliki uticaj na zdravlje biljke i kvalitet grožđa.
+718|U vinogradu se zaštita od plamenjače i pepelnice planira prema vremenskim uslovima, razvojnoj fazi loze i prethodnoj pojavi bolesti, jer nepotrebno često tretiranje povećava troškove i rizik od razvoja rezistentnosti.
+719|Sadržaj šećera i ukupna kiselost grožđa prate se pred berbu kako bi se odredio trenutak kada će sirovina imati karakteristike pogodne za proizvodnju željenog tipa vina.
+720|Nakon podizanja zasada veoma je važno voditi evidenciju o sortama, datumima sadnje, izvršenim tretmanima, đubrenju, navodnjavanju i ostvarenim prinosima, jer takvi podaci omogućavaju ozbiljniju analizu proizvodnje kroz više godina.
+721|Kada kupac bira biljke za novu živu ogradu, potrebno je prvo utvrditi željenu visinu, širinu prostora, količinu sunčeve svetlosti, tip zemljišta i koliko vremena želi da posveti orezivanju i održavanju biljaka tokom godine.
+722|Tuja Smaragd raste pravilnije i užeg je oblika, dok Tuja Brabant obično raste brže i zahteva češće orezivanje, pa izbor između njih zavisi od toga kakav izgled i brzinu zatvaranja ograde kupac očekuje.
+723|Prilikom sadnje kontejnerske biljke treba proveriti da li je koren previše kružno razvijen uz zid saksije, jer jako zapleten koren može usporiti pravilno širenje biljke u okolnom zemljištu nakon presađivanja.
+724|Za male vrtove bolje je birati kompaktne sorte i patuljaste forme biljaka, jer veoma bujne vrste tokom nekoliko godina mogu zauzeti mnogo više prostora nego što je prvobitno planirano prilikom uređenja dvorišta.
+725|Biljke koje se prodaju tokom veoma toplih letnjih dana treba zaštititi od isušivanja tokom transporta, a nakon dolaska na novu lokaciju neophodno je proveriti vlažnost supstrata i po potrebi ih odmah zaliti.
+726|Ukrasne biljke u velikim saksijama imaju ograničenu količinu supstrata, zbog čega se tokom leta mogu znatno brže isušivati i zahtevati češće zalivanje i prihranu nego biljke posađene direktno u zemljištu.
+727|Kod formiranja cvetne gredice poželjno je kombinovati vrste koje cvetaju u različitim periodima, kako bi prostor imao dekorativnu vrednost od ranog proleća pa sve do kasne jeseni.
+728|Hortenzija može razviti veoma krupne cvasti ako ima dovoljno vlage i odgovarajuću ishranu, ali jako podnevno sunce tokom vrelih dana može izazvati uvenuće i oštećenje listova.
+729|Lavanda, ruzmarin i pojedine ukrasne trave veoma dobro odgovaraju sunčanim i suvim delovima vrta, posebno ako je zemljište dovoljno propusno da se voda ne zadržava dugo oko korena.
+730|Dobra preporuka u rasadniku ne treba da se zasniva samo na izgledu biljke u trenutku kupovine, već i na njenoj konačnoj veličini, otpornosti, brzini rasta i zahtevima za dugoročno održavanje.
+731|Kada se na biljci pojave žuti listovi, nije dobro odmah zaključiti da joj nedostaje đubrivo, jer sličan simptom mogu izazvati previše vode, oštećen koren, nepovoljna pH vrednost, bolest ili nedostatak određenog hranljivog elementa.
+732|Pre primene sredstva za zaštitu bilja potrebno je pravilno identifikovati problem, jer insekticid neće rešiti gljivičnu bolest, kao što ni fungicid neće ukloniti štetu izazvanu nedostatkom vode ili hranljivih materija.
+733|Pojava lisnih vaši može biti veoma brza tokom povoljnih uslova, ali prisustvo bubamara, parazitoida i drugih korisnih organizama ponekad može značajno smanjiti populaciju bez potrebe za trenutnom hemijskom intervencijom.
+734|U plastenicima je važno redovno pregledati naličje listova, mlade izdanke i cvetove, jer se tripsi, grinje i druge sitne štetočine često u početku razvijaju na mestima koja se teško uočavaju.
+735|Plamenjača se može veoma brzo širiti tokom toplih i vlažnih perioda, pa je za pravilno planiranje zaštite korisno kombinovati pregled biljaka, meteorološke podatke i informacije o prethodnim infekcijama.
+736|Ako se isti fungicid koristi previše često tokom više sezona, može doći do selekcije manje osetljivih populacija patogena, zbog čega je važno menjati preparate sa različitim mehanizmima delovanja.
+737|Kalibracija prskalice treba da se obavi pre ozbiljnog tretiranja, jer pogrešna brzina kretanja, istrošene dizne ili neodgovarajući pritisak mogu značajno promeniti stvarnu količinu rastvora nanetu po hektaru.
+738|Vreme tretiranja treba izabrati tako da nema jakog vetra ili neposredne opasnosti od kiše, jer nepovoljni uslovi mogu smanjiti efikasnost preparata i povećati mogućnost njegovog zanošenja van ciljne površine.
+739|Integrisana zaštita bilja podrazumeva da se hemijski preparati ne koriste automatski, već se prvo primenjuju preventivne, agrotehničke, mehaničke i biološke mere kad god one mogu dovoljno dobro da kontrolišu problem.
+740|Nakon svakog tretmana potrebno je zabeležiti datum, naziv preparata, aktivnu materiju, primenjenu dozu, količinu vode, tretiranu površinu i vremenske uslove kako bi proizvodna evidencija bila potpuna.
+741|Senzor vlažnosti zemljišta pokazuje da je površinski sloj relativno suv, ali je na dubini od trideset centimetara još uvek dostupna dovoljna količina vode, pa navodnjavanje ne mora odmah da se uključi.
+742|Na mapi prinosa vidi se da severni deo parcele već nekoliko godina ostvaruje slabije rezultate, zbog čega bi trebalo proveriti pH vrednost, sadržaj hraniva, strukturu zemljišta i eventualne probleme sa odvodnjavanjem.
+743|Dron je tokom snimanja uočio nekoliko zona sa slabije razvijenom vegetacijom, ali pre donošenja zaključka potrebno je otići na teren i proveriti da li su uzrok bolesti, korovi, nedostatak vode ili neki drugi faktor.
+744|Automatsko navođenje traktora omogućava preciznije kretanje između susednih prohoda, što je posebno korisno tokom setve, prskanja i đubrenja, jer se tako smanjuju nepotrebna preklapanja i neobrađene površine.
+745|Sistem varijabilne primene može na osnovu unapred pripremljene mape menjati količinu đubriva tokom kretanja mašine, tako da zone sa različitim potrebama ne dobijaju potpuno istu količinu hranljivih materija.
+746|Ako meteorološka stanica zabeleži visoku temperaturu, dug period vlažnosti lista i odgovarajuću količinu padavina, sistem može upozoriti proizvođača da su nastali povoljni uslovi za razvoj određene biljne bolesti.
+747|Tokom letnjeg perioda potrebno je svakodnevno pratiti kontejnerske sadnice, jer mali volumen supstrata može veoma brzo izgubiti vodu i dovesti biljke u stres pre nego što se problem primeti na prvi pogled.
+748|Kupac želi da na dvadeset pet metara dužine napravi zimzelenu ogradu visine oko dva metra, pa treba izabrati odgovarajuću vrstu, preporučiti razmak sadnje i izračunati približan broj potrebnih sadnica.
+749|Na gazdinstvu se planira proširenje sistema za navodnjavanje na još tri hektara, pa je potrebno proveriti kapacitet izvora vode, potreban pritisak, prečnik cevi i očekivanu potrošnju tokom najtoplijeg dela godine.
+750|Savremeni poljoprivrednik više ne donosi odluke samo na osnovu iskustva, već sve češće kombinuje stanje biljaka na terenu, laboratorijske analize, meteorološke podatke, digitalne mape, senzore i ekonomsku računicu proizvodnje.
+751|Kupac želi zimzelenu ogradu dugu približno trideset metara koja bi za nekoliko godina dostigla visinu od oko dva metra, pa treba izabrati odgovarajuću vrstu i izračunati potreban broj sadnica.
+752|Za ovaj deo dvorišta potrebna nam je biljka koja dobro podnosi direktno sunce, nema velike zahteve prema vodi i ostaje dekorativna tokom većeg dela godine.
+753|Pre sadnje tuje potrebno je pripremiti zemljište, odrediti pravilan razmak između sadnica i obezbediti dovoljno vode tokom početnog perioda ukorenjavanja.
+754|Kupac traži manje ukrasno drvo za prostor između kuće i staze, pa treba voditi računa o konačnoj visini, širini krošnje i razvoju korenovog sistema.
+755|Hortenzija posađena na jakom popodnevnom suncu tokom leta može brzo gubiti vodu, zbog čega je za nju često pogodniji položaj sa delimičnom senkom.
+756|Ako želimo cvetnu površinu dekorativnu od proleća do jeseni, potrebno je kombinovati vrste sa različitim periodima cvetanja, visinama i zahtevima prema svetlosti.
+757|Sadnice koje se nalaze u kontejnerima treba redovno pregledati tokom leta jer se njihov supstrat može osušiti mnogo brže nego zemljište u otvorenom prostoru.
+758|Kod formiranja kamenjara možemo kombinovati lavandu, timijan, niske četinare i druge vrste koje dobro podnose sunčane položaje i zemljište sa dobrom drenažom.
+759|Kupac je primetio da su pojedine grane četinara počele da se suše, pa pre preporuke tretmana treba proveriti koren, vlažnost zemljišta i prisustvo štetočina.
+760|Prilikom preuzimanja većih sadnica potrebno je objasniti kupcu kako da ih pravilno transportuje, posadi, zalije i učvrsti tokom prvih nedelja nakon sadnje.
+761|Pre podizanja intenzivnog zasada jabuke potrebno je izabrati odgovarajuću podlogu i sortiment, obezbediti navodnjavanje i planirati konstrukciju koja će pružati stabilnu potporu stablima.
+762|Kod mladih voćaka važno je pravilno formirati krošnju jer greške napravljene tokom prvih godina kasnije mogu otežati rezidbu, zaštitu i berbu plodova.
+763|Ako se tokom cvetanja očekuje temperatura ispod nule, potrebno je pratiti meteorološku prognozu i na vreme pripremiti raspoložive mere zaštite od kasnog prolećnog mraza.
+764|Preveliki broj plodova na stablu može dovesti do njihove manje prosečne veličine i slabijeg formiranja rodnih pupoljaka za narednu proizvodnu godinu.
+765|Kod jabuke se termin berbe može procenjivati prema boji pokožice, čvrstini ploda, sadržaju rastvorljivih materija i drugim pokazateljima stepena zrelosti.
+766|Vinovu lozu tokom vegetacije treba redovno pregledati jer kombinacija visoke vlažnosti i odgovarajuće temperature može stvoriti povoljne uslove za razvoj plamenjače.
+767|Uklanjanjem određenog broja listova oko grozdova može se poboljšati provetravanje, ali preterano izlaganje direktnom suncu može povećati rizik od ožegotina.
+768|Pre berbe grožđa proizvođač može pratiti sadržaj šećera i kiselina kako bi odredio trenutak koji najbolje odgovara planiranom načinu prerade.
+769|Sadnica voćke sa oštećenim ili isušenim korenom može se teže primiti nakon sadnje, pa kvalitet korenovog sistema treba proveriti pre kupovine.
+770|Prilikom izbora sorte voćke nije dovoljno posmatrati samo kvalitet ploda, već treba uzeti u obzir klimu, oprašivanje, otpornost i planirani način proizvodnje.
+771|Pre osnovnog đubrenja korisno je izvršiti hemijsku analizu zemljišta kako bi se količina hranljivih elemenata prilagodila potrebama kulture i stvarnom stanju parcele.
+772|Ako je zemljište jako zbijeno, koren biljke teže prodire u dublje slojeve, smanjuje se količina vazduha i može doći do problema sa kretanjem vode.
+773|Prilikom određivanja setvene norme treba uzeti u obzir klijavost semena, masu hiljadu zrna, željeni sklop biljaka i očekivane gubitke tokom nicanja.
+774|Previše plitka setva može izložiti seme isušivanju, dok prevelika dubina može usporiti nicanje i smanjiti broj uspešno razvijenih mladih biljaka.
+775|Azot značajno utiče na vegetativni razvoj useva, ali njegova prekomerna primena može povećati bujnost i kod nekih kultura smanjiti otpornost na poleganje.
+776|Fosfor je posebno značajan tokom početnog razvoja korenovog sistema, dok kalijum učestvuje u brojnim procesima povezanim sa vodnim režimom i otpornošću biljke.
+777|Organska materija poboljšava strukturu zemljišta, doprinosi zadržavanju vode i predstavlja važan izvor hranljivih elemenata koji se postepeno oslobađaju mineralizacijom.
+778|Plodored u kojem se smenjuju žitarice, leguminoze i druge kulture može pomoći u očuvanju zemljišta i smanjenju pritiska pojedinih štetnih organizama.
+779|Tokom dugog perioda bez padavina potrebno je pratiti stanje vlage u zemljištu, jer vidljivi simptomi suše na biljkama mogu nastati tek nakon razvoja ozbiljnog stresa.
+780|Nakon žetve proizvođač može uporediti prinos različitih delova parcele sa rezultatima analize zemljišta kako bi lakše pronašao moguće uzroke prostornih razlika.
+781|Kada se na listovima pojave pege, prvo treba pažljivo pregledati njihov oblik i raspored, proveriti vremenske uslove i tek nakon pravilne dijagnoze odlučiti o mogućem tretmanu.
+782|Pojava hloroze ne mora automatski da znači nedostatak gvožđa, jer slične promene boje lista mogu nastati zbog problema sa korenom ili dostupnošću drugih hraniva.
+783|Visoka relativna vlažnost i dugo zadržavanje vode na površini biljke mogu značajno povećati rizik od infekcije kod pojedinih gljivičnih patogena.
+784|Ako se lisne vaši pojave samo na nekoliko biljaka, treba proveriti njihovu brojnost i prisustvo prirodnih neprijatelja pre donošenja odluke o hemijskom tretiranju.
+785|Primena istog aktivnog sastojka veliki broj puta tokom sezone može doprineti razvoju rezistentnosti, zbog čega se preporučuje rotacija različitih mehanizama delovanja.
+786|Pre početka prskanja potrebno je proveriti dizne, pritisak, brzinu kretanja i vremenske uslove kako bi željena količina rastvora pravilno dospela na ciljnu površinu.
+787|Jak vetar tokom tretiranja može izazvati zanošenje sitnih kapljica na susedne useve, vodene površine ili druge prostore koji nisu namenjeni tretmanu.
+788|Karenca predstavlja važan podatak prilikom izbora preparata, naročito kada se tretiranje obavlja relativno kratko vreme pre planirane berbe proizvoda.
+789|Integrisana zaštita bilja kombinuje pravilnu agrotehniku, praćenje štetočina, biološke metode i ciljanu primenu hemijskih sredstava samo kada je to potrebno.
+790|Evidencija prethodnih bolesti i tretmana može pomoći proizvođaču da naredne sezone bolje proceni rizik i pravovremeno organizuje preventivne mere zaštite.
+791|Ako se parcela površine četiri hektara tretira sa trista litara vode po hektaru, potrebno je unapred izračunati ukupnu količinu vode potrebnu za ceo posao.
+792|Pre setve treba proveriti da li sejalica pravilno izbacuje seme, jer neujednačen razmak između biljaka može kasnije uticati na iskorišćenje prostora i konačan prinos.
+793|Traktor tokom teške obrade ne treba nepotrebno da proklizava, jer se tako povećava potrošnja goriva, smanjuje radni učinak i dodatno opterećuje zemljište.
+794|Sistem satelitskog navođenja može pomoći da susedni prohodi budu pravilnije raspoređeni, čime se smanjuju preklapanja tokom setve, đubrenja ili zaštite useva.
+795|Senzor pokazuje da je na dubini od dvadeset centimetara sadržaj vode u zemljištu opao, pa treba proceniti da li je dostignut trenutak za navodnjavanje.
+796|Dron je na jednom delu parcele registrovao slabije razvijenu vegetaciju, ali je potrebno terenskim pregledom utvrditi stvarni uzrok pre primene bilo kakve mere.
+797|Mapa prinosa pokazuje da određena zona već nekoliko sezona ostvaruje slabiji rezultat, pa bi na tom mestu trebalo izvršiti detaljnije uzorkovanje zemljišta.
+798|Automatska meteorološka stanica beleži temperaturu, relativnu vlažnost, količinu padavina i brzinu vetra, a prikupljeni podaci mogu pomoći pri planiranju radova.
+799|Digitalna evidencija omogućava da za svaku parcelu sačuvamo podatke o setvi, đubrenju, tretmanima, navodnjavanju, troškovima i ostvarenom prinosu.
+800|Precizna poljoprivreda ima najveću vrednost kada se podaci sa senzora, mašina i terenskih pregleda koriste za donošenje konkretnih i pravovremenih proizvodnih odluka.
+

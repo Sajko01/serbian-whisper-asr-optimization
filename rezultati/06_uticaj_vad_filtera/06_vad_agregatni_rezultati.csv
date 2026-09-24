@@ -1,0 +1,3 @@
+﻿Podskup,Broj fajlova,Prosečno vreme OFF [s],Prosečno vreme ON [s],VAD speedup [x],Smanjenje vremena [%],Prosečan RTF OFF,Prosečan RTF ON,Prosečan WER OFF [%],Prosečan WER ON [%],Promena WER [pp]
+synthetic_en,5,1.968,1.557,1.263,20.848,0.061,0.048,7.578,6.366,-1.212
+natural_sr,5,4.302,4.175,1.031,2.961,0.08,0.078,66.276,65.796,-0.48

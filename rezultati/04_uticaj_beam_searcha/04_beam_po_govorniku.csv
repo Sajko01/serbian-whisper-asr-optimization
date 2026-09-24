@@ -1,0 +1,13 @@
+﻿Beam Size,Govornik,Broj_snimaka,Prosecno_vreme,Prosecan_RTF,Prosecan_WER
+1,govornik1,6,2.195,0.113,48.092
+1,govornik2,3,3.064,0.078,32.16
+1,govornik3,6,2.52,0.118,58.555
+3,govornik1,6,2.904,0.13,44.462
+3,govornik2,3,4.121,0.096,23.753
+3,govornik3,6,3.226,0.127,54.872
+5,govornik1,6,3.656,0.15,42.62
+5,govornik2,3,4.982,0.114,20.157
+5,govornik3,6,3.966,0.149,55.228
+10,govornik1,6,5.654,0.202,44.538
+10,govornik2,3,8.085,0.175,20.157
+10,govornik3,6,6.401,0.208,54.778

@@ -1,0 +1,5 @@
+﻿Podskup,Jezik,Režim,Broj_snimaka,Prosecno_trajanje,Prosecno_vreme,Medijana_vremena,Prosecan_RTF,Medijana_RTF,Prosecan_WER,Medijana_WER
+natural_sr,sr,VAD OFF,5,54.614,4.302,3.134,0.08,0.082,66.276,68.25
+natural_sr,sr,VAD ON,5,54.614,4.175,3.174,0.078,0.082,65.796,65.08
+synthetic_en,en,VAD OFF,5,32.37,1.968,1.967,0.061,0.059,7.578,8.11
+synthetic_en,en,VAD ON,5,32.37,1.557,1.315,0.048,0.041,6.366,8.11

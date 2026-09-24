@@ -1,0 +1,11 @@
+﻿Podskup,Jezik,Fajl,Trajanje audio [s]_OFF,Dodata tišina [s]_OFF,Medijana vremena [s]_OFF,Medijana vremena [s]_ON,Ubrzanje VAD [x],Smanjenje vremena VAD [%],RTF_OFF,RTF_ON,WER [%]_OFF,WER [%]_ON,Promena WER [pp]
+synthetic_en,en,govor_p1_VAD.wav,34.232,,1.995,1.315,1.517,34.085,0.058,0.038,0.0,0.0,0.0
+synthetic_en,en,govor_p2_VAD.wav,33.152,,1.967,1.295,1.519,34.164,0.059,0.039,8.11,8.11,0.0
+synthetic_en,en,govor_p3_VAD.wav,30.872,,2.049,1.948,1.052,4.929,0.066,0.063,0.0,0.0,0.0
+synthetic_en,en,govor_p4_VAD.wav,33.08,,1.901,1.982,0.959,-4.261,0.058,0.06,8.57,8.57,0.0
+synthetic_en,en,govor_p5_VAD.wav,30.512,,1.926,1.247,1.545,35.254,0.063,0.041,21.21,15.15,-6.06
+natural_sr,sr,28govornik1_VAD.wav,36.84,6.143,3.006,3.174,0.947,-5.589,0.082,0.086,68.25,65.08,-3.17
+natural_sr,sr,32govornik3_VAD.wav,34.835,6.867,3.005,3.071,0.979,-2.196,0.086,0.088,76.67,76.67,0.0
+natural_sr,sr,33govornik3_VAD.wav,38.37,7.116,3.134,2.547,1.23,18.73,0.082,0.066,78.79,78.79,0.0
+natural_sr,sr,36govornik1_VAD.wav,74.985,5.975,5.771,6.115,0.944,-5.961,0.077,0.082,56.92,57.69,0.77
+natural_sr,sr,40govornik3_VAD.wav,88.041,8.269,6.595,5.967,1.105,9.522,0.075,0.068,50.75,50.75,0.0

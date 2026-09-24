@@ -1,0 +1,67 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+conda-meta/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+~$*
+*.bak
+
+# Downloaded models and checkpoints
+models/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+
+# Local databases and caches
+anaconda_projects/
+.cache/
+
+# Downloaded Faster-Whisper source
+faster-whisper-master/
+faster-whisper-master.zip
+
+# Fine-tuning audio files
+/audio/Fine_Tuning/**/*.wav
+/audio/Fine_Tuning/**/*.mp3
+/audio/Fine_Tuning/**/*.flac
+/audio/Fine_Tuning/**/*.m4a
+
+# Keep audio folder structure if needed
+!audio/**/.gitkeep

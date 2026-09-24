@@ -1,0 +1,4 @@
+﻿Rang,Chunk size [s],Broj_fajlova,Prosecno_ukupno_vreme,Prosecan_RTF,Prosecna_chunk_latencija,Prosecna_P95_latencija,Prosecan_TTFR,Prosecan_max_queue,Prosecan_max_result_delay,Prosecan_final_tail,Prosecan_WER,Medijana_WER,Procenat_chunkova_real_time,Corpus WER [%],Promena macro WER vs full-file [pp],Promena corpus WER vs full-file [pp],Skor_WER,Skor_RTF,Skor_TTFR,Skor_queue,Chunk_skor
+1,10,5,9.408,0.132,1.245,1.445,11.299,0.0,1.473,1.086,52.036,54.48,100.0,51.98,9.008,9.102,1.0,1.0,0.0,1.0,0.7999999999999999
+2,5,5,13.617,0.19,0.933,1.173,5.904,0.0,1.595,0.851,126.396,68.46,100.0,126.43,83.368,83.552,0.5585371645689859,0.7964912280701755,0.6327703495191179,1.0,0.6651208978023516
+3,2,5,29.884,0.417,0.82,1.182,2.773,0.192,2.041,1.481,220.476,250.0,95.61,221.88,177.448,179.002,0.0,0.0,1.0,0.0,0.2

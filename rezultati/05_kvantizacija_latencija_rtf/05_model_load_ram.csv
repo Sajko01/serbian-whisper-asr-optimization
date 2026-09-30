@@ -1,9 +1,9 @@
 ﻿Model,Kvantizacija,Uređaj,Model Load Time [s],RSS pre učitavanja [MB],RSS nakon učitavanja [MB],RAM delta učitavanja [MB]
-tiny,int8,cpu,0.789,286.53,322.66,36.12
-tiny,float32,cpu,0.356,273.83,430.27,156.43
-base,int8,cpu,0.582,272.35,363.39,91.04
-base,float32,cpu,0.571,196.02,492.97,296.95
-small,int8,cpu,1.181,172.38,436.18,263.8
-small,float32,cpu,1.119,176.51,1119.12,942.61
-medium,int8,cpu,3.577,176.91,847.88,670.97
-medium,float32,cpu,6.031,170.39,705.81,535.43
+tiny,int8,cpu,0.912,287.57,361.42,73.85
+tiny,float32,cpu,0.429,326.66,485.02,158.36
+base,int8,cpu,0.619,327.54,417.27,89.72
+base,float32,cpu,0.552,331.34,624.52,293.17
+small,int8,cpu,1.382,266.05,521.35,255.3
+small,float32,cpu,1.189,237.77,1150.95,913.18
+medium,int8,cpu,4.074,213.94,972.44,758.5
+medium,float32,cpu,5.633,171.02,1484.65,1313.63

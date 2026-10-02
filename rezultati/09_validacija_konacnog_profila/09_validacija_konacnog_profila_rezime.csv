@@ -1,0 +1,2 @@
+﻿Konfiguracija,Broj_snimaka,Prosecan_WER_pct,Medijana_WER_pct,Corpus_WER_pct,Prosecno_vreme_s,Medijana_vremena_s,Ukupno_vreme_s,Prosecan_RTF,Medijana_RTF,Maksimalni_RTF,Ukupno_chunkova
+Small INT8 + beam 5 + VAD + chunk 10 s,20,23.43598528345294,22.58064516129032,25.269262634631318,14.727957585002878,10.617232849996071,294.55915170005755,0.4994453544944809,0.49450048713696104,0.6755506719027102,72

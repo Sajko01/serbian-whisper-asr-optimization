@@ -1,0 +1,9 @@
+Faster-Whisper base INT8 testiran je na 30 kandidatskih parova prirodnih
+FLEURS snimaka (sr_rs i en_us, split test). Prosečan WER za engleski iznosi
+9.97%, a za srpski 57.46%.
+Corpus WER (poravnanje zasebno po snimku) iznosi 9.85% (EN) i 55.99% (SR).
+Razlika prosečnih WER vrednosti (SR−EN) iznosi
+47.49 procentnih poena.
+Prosečan RTF je 0.151 (EN) i 0.142 (SR).
+Uzorak od 30 snimaka po jeziku ogranicava generalizaciju. Isti numericki ID ne dokazuje prevodnu ekvivalentnost. Ovo poređenje meri ponašanje modela na izabranom skupu; razlike u govornicima,
+akcentima i uslovima snimanja ograničavaju kauzalno tumačenje jezičkog efekta.

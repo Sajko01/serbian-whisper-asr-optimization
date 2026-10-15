@@ -1,0 +1,3 @@
+﻿Skup,Nacin,Model,Kvantizacija,Beam_size,VAD,Broj_snimaka,Corpus_WER_pct,Prosecan_WER_pct,Medijana_WER_pct,Zamene,Brisanja,Umetanja,Referentne_reci,Prosecan_RTF,Prosecan_RTF_inference,Prosecno_vreme_dekodiranja_s,Prosecna_TTFR_s,TTFR_definicija
+40_prirodnih_razvojni_benchmark,STREAMING,small,int8,5,True,40,34.36830835117773,35.003950281480606,33.35339431872893,434,138,70,1868,1.3581417887955916,1.358079746865894,28.572329284989973,12.46025728499517,simulirano vreme do prvog chunk rezultata
+40_prirodnih_razvojni_benchmark,CEO_SNIMAK,small,int8,5,True,40,23.23340471092077,22.4404513986579,20.714285714285715,366,34,34,1868,0.43440701354189004,0.43440504234275457,9.494090952479747,33.90493746751211,trajanje celog WAV + dekodiranje; batch rezultat

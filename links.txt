@@ -1,0 +1,7 @@
+https://www.kaggle.com/datasets/sajkobre/serbian-agriculture-whisper
+
+https://www.kaggle.com/code/sajkobre/whisper-small-serbian-agricultural-speech-fine-t
+
+https://www.kaggle.com/datasets/sajkobre/serbian-general-speech-asr-benchmark
+
+https://www.kaggle.com/code/sajkobre/whisper-small-generalization-after-agricultural

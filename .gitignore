@@ -64,4 +64,6 @@ faster-whisper-master.zip
 /audio/Fine_Tuning/**/*.m4a
 
 # Keep audio folder structure if needed
-!audio/**/.gitkeep
+!audio/**/.gitkeepaudio/03_srpski_engleski/fleurs/arhive/*.tar.gz 
+/audio/03_srpski_engleski/fleurs/arhive/en_us_test.tar.gz
+/audio/03_srpski_engleski/fleurs/arhive/sr_rs_test.tar.gz

@@ -1,0 +1,16 @@
+train (los kvalitet - presnimio govornik 1)
+
+gov3 308, 310, 314, 637, 648
+gov2 216, 221, 240
+
+
+
+
+val (presnimio govornik 1)
+660, 672, 675
+
+
+
+
+test
+zaseban - govornik 4

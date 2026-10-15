@@ -5,4 +5,8 @@ Uređaj,cpu
 Jezik,sr
 Beam size,5
 VAD default,ON
-Streaming chunk [s],10.0
+Streaming režim,D_preklop_i_kontekst
+Streaming overlap [s],1
+Streaming prompt max reči,8
+Streaming skor,0.8589211862312179
+Streaming chunk [s],5
